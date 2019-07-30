@@ -55,10 +55,18 @@ Funding:
 
 
 ### Grace Crandall
+[Lab notebook](https://grace-ac.github.io) | graceac9@uw.edu | iTunes Podcast: DecaPod | thesis portal: [bittercrab.science](https://bittercrab.wordpress.com)
+
 
 <img src="http://owl.fish.washington.edu/scaphapoda/grace/peoplepageprofpic.jpg" width="95" height="162" ALIGN = "left" border="10" style="border-color: white"/>
 
-I have been in love with the ocean and its critters my entire life, having grown up on the central California coast. I attended UW as an undergraduate and happily found myself in the School of Aquatic and Fishery Sciences. After volunteering in the Roberts lab from 2014-2016, and then having the enormous opportunity of working as a lab technician from 2016-2017, I have finally become a part of the graduate student research team (Winter 2018). I will be focusing on investigating the effects of temperature and disease - Bitter Crab Syndrome, caused by parasitic dinoflagellate *Hematodinium spp.* - on the genetic expression of Tanner Crabs (*Chionoecetes bairdi*). I am very excited to be embarking on this new chapter in my research and educational career. If you would like to know more about the project, check out my lab notebook for updates: [Grace's Lab Notebook](https://grace-ac.github.io). Or if would like to ask me any questions regarding the project or the undergraduate/graduate/lab tech experience at UW, email me at: graceac9@uw.edu  
+I have been in love with the ocean and its critters my entire life, having grown up on the central California coast. I have also been intrigued by pathogens and diseases in humans and animals ever since I first learned about the bubonic plague in elementary school. During undergrad, I veared more toward my marine interests while I attended UW and happily found myself in the School of Aquatic and Fishery Sciences. After volunteering in the Roberts lab from 2014-2016, and then having the great opportunity of working as a lab technician from 2016-2017, I have finally become a part of the graduate student research team (Winter 2018). For my thesis, I get to tie in some of my disease interests by investigating the effects of temperature and disease - Bitter Crab Syndrome, caused by parasitic dinoflagellate *Hematodinium spp.* - on the genetic expression of Tanner Crabs (*Chionoecetes bairdi*). If you would like to learn more about this specific project, you can contact me directly, or check out my online portal for the project at [bittercrab.science](https://bittercrab.wordpress.com), or subscribe and listen to my podcast, DecaPod, which is discoverable on iTunes as well as bittercrab.science in the [Podcast tab](https://bittercrab.wordpress.com/category/podcast/). 
+
+In addition to my thesis research, I am starting a [1-year certificate program in OneHealth](https://deohs.washington.edu/cohr/graduate-certificate-one-health) here at UW (Fall 2019) during which I will be taking courses in human health, environmental health, and animal health as well as conducting my own capstone project. This is a great opportunity for me to explore areas of science that I have always been curious about and getting recognized for it! And I still will have time to perform my own research for my crab project. If you would like to learn more about OneHealth or balancing thesis work along with other educational endevours, feel free to email me. 
+
+Funding:
+
+- [North Pacific Research Board](https://www.nprb.org) (Fall 2018 - present) 
 
 ---
 # Postdoctoral Research Associates
