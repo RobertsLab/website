@@ -48,15 +48,8 @@ Funding:
 
 - [NSF Graduate Research Fellowships Program](nsfgrfp.org) (September 2018-present) 
 - [Hall Conservation Genetics Research Award](https://environment.uw.edu/students/student-resources/scholarships-funding/graduate-scholarships-funding/hall-conservation-genetics-research-award/) (March 2017)
-- [Fisheries Interdisciplinary Network of Students Travel Grant](https://safsfins.wordpress.com/travel-awards/) (September 2017)
-- [College of the Environment Travel Grant](https://environment.uw.edu/students/student-resources/scholarships-funding/student-travel-meeting-fund/) (September 2017)
 - School of Aquatic and Fishery Sciences Fellowship (September 2016-September 2017)
 
-Awards:
-
-- [College of the Environment Outstanding Diversity Committment](https://environment.uw.edu/intranet/personnel/awards/award-winners/) (May 2019)
-- [University of Washington Husky 100](https://www.washington.edu/husky100/#name=yaamini-venkataraman) (April 2019)
-- Honorable Mention: Best Student Presentation (PCSGA; September 2018)
 
 ---
 
