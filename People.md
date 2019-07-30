@@ -30,6 +30,16 @@ As a Univeristy of Washington alumna with a B.S. in Chemical Oceanography, I am 
 Lab Notebook: [laurahspencer.github.io/LabNotebook](https://laurahspencer.github.io/LabNotebook/)  
 Contact: lhs3@uw.edu  
 
+My funding:
+
+- [NSF Graduate Research Fellowships Program](nsfgrfp.org): 2017, 2018, & 2020 
+- UW TA-ships 
+  -  Fall 2018: BIOL 250, Marine Biology with Dr. Jose Guzman  
+  - Winter 2018,  Winter 2019: FSH 324, Aquatic Animal Physiology And Reproduction with Dr. Graham Young. 
+  - Spring 2019: FSH 310, Shellfish Biology, with Dr. Jackie Padilla-Gamiño. 
+  
+ 
+
 ---
 
 
