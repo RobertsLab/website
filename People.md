@@ -2,9 +2,9 @@
 # Principal Investigator
 ### [Steven Roberts](http://faculty.washington.edu/sr320/?page_id=3577)
 
-<img src="https://fish.uw.edu/wp-content/uploads/sites/4/2015/05/Steven-Roberts1-528x528.jpg" width="144" height="142" ALIGN = "left" border="10" style="border-color: white"/> 
+<img src="https://fish.uw.edu/wp-content/uploads/sites/4/2015/05/Steven-Roberts1-528x528.jpg" width="144" height="142" ALIGN = "left" border="10" style="border-color: white"/>
 
-Kenneth K. Chew Endowed Professor in Aquaculture in the School of Aquatic and Fishery Sciences at the University of Washington where his research focuses on characterizing physiological response of aquatic species to environmental change with a particular focus on the relationship of transcriptomics, genetics, and epigenetic modifications. Current research efforts include characterizing the adaptive potential of native bivalves in Puget Sound and the functional role of DNA methylation in marine invertebrates.
+Associate Director of the School of Aquatic and Fishery Sciences at the University of Washington where his research focuses on characterizing physiological response of aquatic species to environmental change with a particular focus on the relationship of transcriptomics, genetics, and epigenetic modifications. Current research efforts include characterizing the adaptive potential of native bivalves in Puget Sound and the functional role of DNA methylation in marine invertebrates.
 
 
 ---
@@ -12,9 +12,9 @@ Kenneth K. Chew Endowed Professor in Aquaculture in the School of Aquatic and Fi
 # Graduate Students
 
 
-### Jay Dimond 
+### Jay Dimond
 
-<img src="http://eagle.fish.washington.edu/astrangia/jay.JPG" width="180" height="162" ALIGN = "left" border="10" style="border-color: white"/> 
+<img src="http://eagle.fish.washington.edu/astrangia/jay.JPG" width="180" height="162" ALIGN = "left" border="10" style="border-color: white"/>
 
 I'm a naturalist at heart with a particular fascination with marine invertebrates. My background is primarily in the biology and ecology of symbiotic cnidarians, including reef corals and sea anemones that host endosymbiotic dinoflagellates and other photosymbionts. My work in the Roberts Lab will evaluate the role of epigenetics in the ability of these organisms to acclimatize and adapt to their environment, a topic that is especially relevant as we march on into the "anthropocene", an era of increasingly human-altered ecosystems. Contact: jldimond@uw.edu
 
@@ -23,7 +23,7 @@ I'm a naturalist at heart with a particular fascination with marine invertebrate
 
 ### Laura Spencer
 
-<img src="https://github.com/laurahspencer/LabNotebook/blob/master/images/IMG_4758.jpg?raw=true" width="180" height="162" ALIGN = "left" border="10" style="border-color: white"/> 
+<img src="https://github.com/laurahspencer/LabNotebook/blob/master/images/IMG_4758.jpg?raw=true" width="180" height="162" ALIGN = "left" border="10" style="border-color: white"/>
 
 As a Univeristy of Washington alumna with a B.S. in Chemical Oceanography, I am very pleased to return to the UW to pursue a Masters at SAFS as an NSF Graduate Fellow. In the years between I began my career at SustainableWorks, an ARRA-funded energy efficiency program in Seattle working to reduce residential energy consumption, then with the Seattle-based consulting firm Ross Strategic on a spectrum of environmental projects such as flood mitigation, Puget Sound salmon recovery, air quality on tribal lands, the EPA Exchange Network, etc. Most recently I joined the Puget Sound Restoration Fund, a non-profit using boots-on-the-ground tactics to restore the native Olympia oyster & Pinto abalone in Puget Sound, where I gained valuable experience in hatchery techniques and a curiosity in shellfish restoration and research. Additionally, dual interests in scientific education/outreach and Ocean Acifidification led to volunteering with the Seattle Aquarium, the Ocean Inquiry Project, WA Sea Grant, and Earth Echo. In joining the Roberts Lab I seek to perform applied research to provide useful knowledge for shellfish aquaculture and restoration communities, with the express interest of maintaining affordable, delicious shellfish on our tables and shorelines.  
 
@@ -36,7 +36,7 @@ Contact: lhs3@uw.edu
 ### Yaamini Venkataraman
 [Lab notebook](https://yaaminiv.github.io) | [CV](https://yaaminiv.github.io/about/) | Twitter: @YaaminiV
 
-<img src="https://avatars1.githubusercontent.com/u/22335838?v=3&u=eb68e8abc8514869e99bdf6a2638066aedaebef4&s=140" ALIGN = "left" border="10" style="border-color: white"/> 
+<img src="https://avatars1.githubusercontent.com/u/22335838?v=3&u=eb68e8abc8514869e99bdf6a2638066aedaebef4&s=140" ALIGN = "left" border="10" style="border-color: white"/>
 
 As a California Bay Area native, I grew up going to the Monterey Bay Aquarium. I was always floored by the intricacies of the organisms themselves, but also how complex their environments were. These experiences pushed me to get my B.S. in General Biology and B.A. in Environmental Policy at the University of California, San Diego (UCSD). I studied several different species-environment interactions, including copepods and copper toxicity at the Wrigley Institute for Environmental Studies, marsh plants species and increased carbon inputs at the Smithsonian Institute for Environmental Studies and limpet-surfgrass interactions under acidified conditions at UCSD. At the Roberts Lab, I study how climate change is going to affect the organisms in our current and future oceans. My current projects involve examining  ocean acidification’s effects on oysters using “-omic” techniques.
 
@@ -49,7 +49,7 @@ If you want to know more about my path to graduate school, what it's like to be 
 
 ### Grace Crandall
 
-<img src="http://owl.fish.washington.edu/scaphapoda/grace/peoplepageprofpic.jpg" width="95" height="162" ALIGN = "left" border="10" style="border-color: white"/> 
+<img src="http://owl.fish.washington.edu/scaphapoda/grace/peoplepageprofpic.jpg" width="95" height="162" ALIGN = "left" border="10" style="border-color: white"/>
 
 I have been in love with the ocean and its critters my entire life, having grown up on the central California coast. I attended UW as an undergraduate and happily found myself in the School of Aquatic and Fishery Sciences. After volunteering in the Roberts lab from 2014-2016, and then having the enormous opportunity of working as a lab technician from 2016-2017, I have finally become a part of the graduate student research team (Winter 2018). I will be focusing on investigating the effects of temperature and disease - Bitter Crab Syndrome, caused by parasitic dinoflagellate *Hematodinium spp.* - on the genetic expression of Tanner Crabs (*Chionoecetes bairdi*). I am very excited to be embarking on this new chapter in my research and educational career. If you would like to know more about the project, check out my lab notebook for updates: [Grace's Lab Notebook](https://grace-ac.github.io). Or if would like to ask me any questions regarding the project or the undergraduate/graduate/lab tech experience at UW, email me at: graceac9@uw.edu  
 
@@ -59,7 +59,7 @@ I have been in love with the ocean and its critters my entire life, having grown
 ### Shelly Trigg
 [Lab notebook](https://shellytrigg.github.io) | [CV](http://htmlpreview.github.com/?https://github.com/shellytrigg/shellytrigg.github.io/blob/master/docs/ShellyTrigg-CV_09192018.html) | satrigg@uw.edu | [ORCID iD](https://orcid.org/0000-0001-6904-4149)
 
-<img src="https://github.com/shellytrigg/shellytrigg.github.io/blob/master/images/shelly_muk_crabs.jpg?raw=true" width="130" height="140" border = "5" ALIGN = "left" border="10" style="border-color: white"/> 
+<img src="https://github.com/shellytrigg/shellytrigg.github.io/blob/master/images/shelly_muk_crabs.jpg?raw=true" width="130" height="140" border = "5" ALIGN = "left" border="10" style="border-color: white"/>
 
 I joined the Roberts lab in September 2018 after completing my Ph.D. in Biolgoy at UC San Diego. My main interests are in research and public education outreach on how organisms’ molecular networks respond to human-influenced environmental change. My current research focuses on how ocean acidification impacts physiology and epigenetic variation in bivalves.  
 <br>
@@ -133,8 +133,8 @@ Charles Duber; UW SAFS (2013-2014)  [proposal](https://docs.google.com/document/
 Jessica Blanchette; UW SAFS (2013-2014)  [proposal](https://docs.google.com/document/d/12TBVhJFzyUVG3ZkHLFtQIqDR3rFMDxgIVLkVL2Upqj0/edit )   [paper](https://docs.google.com/document/d/12nb-nepY0VGAjGzpQO4Ni20yLjssj-rP0Ohrv7q8LQc/pub)  [slides](https://www.dropbox.com/s/w9at6mhduthozih/Blanchette%20Capstone.pptx)  [notebook](http://genefish.wikispaces.com/Jessica%27s+Notebook)
 
 <!---
-I realize all code below is crappy (html) 
-no plans to edit. will just use markdown going forward. 
+I realize all code below is crappy (html)
+no plans to edit. will just use markdown going forward.
 -->
 
 Bradley Chi; UW SAFS <a href="https://docs.google.com/document/d/1hq9m-_T5E9O0NiWx9uIPHOF3npCFOk6wAEWGZoaT5AM/edit">proposal</a> <a href="https://docs.google.com/document/d/1rew1-36rDWzbCcekr1CF_QVf0mtv91XPI_Qp2q1BDbE/edit">paper</a> <a href="https://docs.google.com/file/d/0B9V_gF766XZAZDhCLUF5ZUdFUnc/edit?usp=sharing">slides</a>
@@ -216,6 +216,6 @@ _New method for determining size at age in individuals to inform geoduck populat
 
 Timothy Green; University of Queensland
 
-Adelaide Rhodes; Visiting Scholar 
+Adelaide Rhodes; Visiting Scholar
 
 <br>
