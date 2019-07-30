@@ -46,8 +46,10 @@ If you want to know more about my path to graduate school, what it's like to be 
 
 Funding:
 
-- [NSF Graduate Research Fellowships Program](nsfgrfp.org) (September 2018-present)
+- [NSF Graduate Research Fellowships Program](nsfgrfp.org) (September 2018-present) 
 - [Hall Conservation Genetics Research Award](https://environment.uw.edu/students/student-resources/scholarships-funding/graduate-scholarships-funding/hall-conservation-genetics-research-award/) (March 2017)
+- Fisheries Interdisciplinary Network of Students Travel Grant (Sept 2017)
+- College of the Environment Travel Grant (September 2017)
 - School of Aquatic and Fishery Sciences Fellowship (September 2016-September 2017)
 
 Awards:
