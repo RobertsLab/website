@@ -46,7 +46,7 @@ If you want to know more about my path to graduate school, what it's like to be 
 
 Funding:
 
-- [NSF Graduate Research Fellowships Program](nsfgrfp.org) (September 2018-present) 
+- [NSF Graduate Research Fellowships Program](nsfgrfp.org) (September 2018-present)
 - [Hall Conservation Genetics Research Award](https://environment.uw.edu/students/student-resources/scholarships-funding/graduate-scholarships-funding/hall-conservation-genetics-research-award/) (March 2017)
 - School of Aquatic and Fishery Sciences Fellowship (September 2016-September 2017)
 
@@ -60,13 +60,13 @@ Funding:
 
 <img src="http://owl.fish.washington.edu/scaphapoda/grace/peoplepageprofpic.jpg" width="95" height="162" ALIGN = "left" border="10" style="border-color: white"/>
 
-I have been in love with the ocean and its critters my entire life, having grown up on the central California coast. I have also been intrigued by pathogens and diseases in humans and animals ever since I first learned about the bubonic plague in elementary school. During undergrad, I veared more toward my marine interests while I attended UW and happily found myself in the School of Aquatic and Fishery Sciences. After volunteering in the Roberts lab from 2014-2016, and then having the great opportunity of working as a lab technician from 2016-2017, I have finally become a part of the graduate student research team (Winter 2018). For my thesis, I get to tie in some of my disease interests by investigating the effects of temperature and disease - Bitter Crab Syndrome, caused by parasitic dinoflagellate *Hematodinium spp.* - on the genetic expression of Tanner Crabs (*Chionoecetes bairdi*). If you would like to learn more about this specific project, you can contact me directly, or check out my online portal for the project at [bittercrab.science](https://bittercrab.wordpress.com), or subscribe and listen to my podcast, DecaPod, which is discoverable on iTunes as well as bittercrab.science in the [Podcast tab](https://bittercrab.wordpress.com/category/podcast/). 
+I have been in love with the ocean and its critters my entire life, having grown up on the central California coast. I have also been intrigued by pathogens and diseases in humans and animals ever since I first learned about the bubonic plague in elementary school. During undergrad, I veared more toward my marine interests while I attended UW and happily found myself in the School of Aquatic and Fishery Sciences. After volunteering in the Roberts lab from 2014-2016, and then having the great opportunity of working as a lab technician from 2016-2017, I have finally become a part of the graduate student research team (Winter 2018). For my thesis, I get to tie in some of my disease interests by investigating the effects of temperature and disease - Bitter Crab Syndrome, caused by parasitic dinoflagellate *Hematodinium spp.* - on the genetic expression of Tanner Crabs (*Chionoecetes bairdi*). If you would like to learn more about this specific project, you can contact me directly, or check out my online portal for the project at [bittercrab.science](https://bittercrab.wordpress.com), or subscribe and listen to my podcast, DecaPod, which is discoverable on iTunes as well as bittercrab.science in the [Podcast tab](https://bittercrab.wordpress.com/category/podcast/).
 
-In addition to my thesis research, I am starting a [1-year certificate program in OneHealth](https://deohs.washington.edu/cohr/graduate-certificate-one-health) here at UW (Fall 2019) during which I will be taking courses in human health, environmental health, and animal health as well as conducting my own capstone project. This is a great opportunity for me to explore areas of science that I have always been curious about and getting recognized for it! And I still will have time to perform my own research for my crab project. If you would like to learn more about OneHealth or balancing thesis work along with other educational endevours, feel free to email me. 
+In addition to my thesis research, I am starting a [1-year certificate program in OneHealth](https://deohs.washington.edu/cohr/graduate-certificate-one-health) here at UW (Fall 2019) during which I will be taking courses in human health, environmental health, and animal health as well as conducting my own capstone project. This is a great opportunity for me to explore areas of science that I have always been curious about and getting recognized for it! And I still will have time to perform my own research for my crab project. If you would like to learn more about OneHealth or balancing thesis work along with other educational endevours, feel free to email me.
 
 Funding:
 
-- [North Pacific Research Board](https://www.nprb.org) (Fall 2018 - present) 
+- [North Pacific Research Board](https://www.nprb.org) (Fall 2018 - present)
 
 ---
 # Postdoctoral Research Associates
@@ -87,6 +87,8 @@ Sam White
 
 Brent Vadopalas
 
+Kaitlyn Mitchell
+
 Crystal Simchick
 
 Giles Goetz
@@ -97,7 +99,6 @@ Andy Jasonowicz
 
 # Undergraduate Students
 
-Kaitlyn Mitchell
 
 ---
 
@@ -130,6 +131,11 @@ Dave Metzger
 
 
 ### _Undergraduates_
+
+Ronit (pre-college) (2019)
+
+Alanna Greene (2019)
+
 
 Grace Crandall (2016) [proposal](https://docs.google.com/document/d/1JfGHW-ou-9uNA5Ty8yz3eh2lTRMwnazGAGJQry16AOc/edit?usp=sharing) [paper](https://docs.google.com/document/d/1y-tYILgL0CJXYl1REl67167CPA0nK3sP4WabVMaeOP0/edit?usp=sharing)  [slides](https://docs.google.com/presentation/d/1iOL7psop59XczsrTr-hOIKJuxNpCivmh3rIZjdIvuC0/edit?usp=sharing)  [presentation](https://drive.google.com/file/d/0B9V_gF766XZAUUg2dTV1a2RMNVk/view?usp=sharing)  [notebook](http://genefish.wikispaces.com/Grace%27s+Notebook)
 
