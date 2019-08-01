@@ -18,6 +18,15 @@ Associate Director of the School of Aquatic and Fishery Sciences at the Universi
 
 I'm a naturalist at heart with a particular fascination with marine invertebrates. My background is primarily in the biology and ecology of symbiotic cnidarians, including reef corals and sea anemones that host endosymbiotic dinoflagellates and other photosymbionts. My work in the Roberts Lab will evaluate the role of epigenetics in the ability of these organisms to acclimatize and adapt to their environment, a topic that is especially relevant as we march on into the "anthropocene", an era of increasingly human-altered ecosystems. Contact: jldimond@uw.edu
 
+
+Funding sources:   
+
+John E. Halver Fellowship    
+ARCS Foundation Seattle Chapter    
+Hall Conservation Genetics Award    
+International Society for Reef Studies Graduate Fellowship
+
+
 ---
 
 
