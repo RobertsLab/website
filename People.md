@@ -21,7 +21,7 @@ I'm a naturalist at heart with a particular fascination with marine invertebrate
 
 Funding sources:   
 
-John E. Halver Fellowship    
+John E. Halver (SAFS) Fellowship    
 ARCS Foundation Seattle Chapter    
 Hall Conservation Genetics Award    
 International Society for Reef Studies Graduate Fellowship
