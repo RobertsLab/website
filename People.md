@@ -19,7 +19,7 @@ Associate Director of the School of Aquatic and Fishery Sciences at the Universi
 I'm a naturalist at heart with a particular fascination with marine invertebrates. My background is primarily in the biology and ecology of symbiotic cnidarians, including reef corals and sea anemones that host endosymbiotic dinoflagellates and other photosymbionts. My work in the Roberts Lab will evaluate the role of epigenetics in the ability of these organisms to acclimatize and adapt to their environment, a topic that is especially relevant as we march on into the "anthropocene", an era of increasingly human-altered ecosystems. Contact: jldimond@uw.edu
 
 
-Funding sources:   
+Funding:   
 
 John E. Halver (SAFS) Fellowship    
 ARCS Foundation Seattle Chapter    
@@ -45,7 +45,7 @@ Funding:
   -  Fall 2018: BIOL 250, Marine Biology with Dr. Jose Guzman  
   - Winter 2018,  Winter 2019: FSH 324, Aquatic Animal Physiology And Reproduction with Dr. Graham Young.
   - Spring 2019: FSH 310, Shellfish Biology, with Dr. Jackie Padilla-Gamiño.
-
+- Hall Conservation Genetics Research Award
 
 
 ---
