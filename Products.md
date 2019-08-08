@@ -30,6 +30,9 @@ Shelly Trigg | [shellytrigg.github.io](https://shellytrigg.github.io/) |   [![Gi
 ## Recent Presentations</a>
 
 #### 2019
+
+* [Epigenetic Mechanisms in Marine Invertebrates: Perspectives and Applications](https://github.com/sr320/talk-grc-2019) Gordon Research Conference: Marine Molecular Ecology, Novel Insights into Marine Patterns and Processes (Hong Kong, China) July 15, 2019
+
 * [Epigenetic Variation in Shellfish and Implications for Aquaculture](https://github.com/sr320/talk-mj-2019) Aquaculture Canada (Victoria, British Columbia) May 07, 2019
 
 * [Intergenerational Carryover Effects in Shellfish and the Consideration of a Role for DNA Methylation](https://github.com/sr320/talk-mj-2019) NOAA Monster Jam (Seattle, WA) May 02, 2019
@@ -64,19 +67,6 @@ Shelly Trigg | [shellytrigg.github.io](https://shellytrigg.github.io/) |   [![Gi
 
 * [Native oyster restoration in Washington State, USA](https://doi.org/10.6084/m9.figshare.8066336.v1) - Port Stephens Fisheries Research Institute (New South Wales, Australia), June 2018.
 
-#### 2017
-
-* [Epigenetic mechanisms in marine invertebrates: perspectives and applications](https://github.com/sr320/talk-bh-2017) Biotecnología Habana 2017 (Varadero, Cuba) December 3-6, 2017
-
-* [Exploring proteomic variation in Pacific Oysters](https://figshare.com/articles/PCSGA_2017_Exploring_Proteomic_Variation_in_Pacific_Oysters/5445616) Western Society of Naturalists (Pasadena, CA). November 18, 2017
-
-* [A functional understanding of DNA methylation in shellfish](https://github.com/sr320/talk-ae-2017) Aquaculture Europe (Dubrovonik, Croatia). October 17-20, 2017
-
-* [Exploring proteomic variation in Pacific Oysters](https://figshare.com/articles/PCSGA_2017_Exploring_Proteomic_Variation_in_Pacific_Oysters/5445616) PCSGA (Welches, OR). September 20, 2017
-
-* [At the whim of the tides: larval exchange among Olympia oyster (*Ostrea lurida*) in Puget Sound](https://figshare.com/articles/Hintz_PCSGA_FINAL_pptx/5445622) PCSGA (Welches, OR). September 20, 2017
-
-* [Geoduck as indicators of environmental change](https://figshare.com/articles/Geoduck_as_indicators_of_environmental_change/5447302) PCSGA (Welches, OR). September 20, 2017
 
 
 
