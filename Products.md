@@ -30,6 +30,9 @@ Shelly Trigg | [shellytrigg.github.io](https://shellytrigg.github.io/) |   [![Gi
 ## Recent Presentations</a>
 
 #### 2019
+* [A protein inventory reveals mechanisms of temperature impact on oyster development](https://github.com/shellytrigg/OysterSeedProject/tree/master/Presentations) Pacific Coast Shellfish Growers Association 2019 Conference (Portland, Oregon) September 17-19, 2019
+
+* [Parental winter exposures influence Olympia oyster larvae](https://figshare.com/articles/Parental_winter_exposures_influence_Olympia_oyster_larvae/9894434) - PCSGA/NSA-PCS 2019 (Portland, OR), September 17th, 2019. 
 
 * [Epigenetic Mechanisms in Marine Invertebrates: Perspectives and Applications](https://github.com/sr320/talk-grc-2019) Gordon Research Conference: Marine Molecular Ecology, Novel Insights into Marine Patterns and Processes (Hong Kong, China) July 15, 2019
 
