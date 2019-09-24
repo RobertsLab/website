@@ -50,7 +50,6 @@ Shelly Trigg | [shellytrigg.github.io](https://shellytrigg.github.io/) |   [![Gi
 
 * [Comparative Analyses of DNA Methylation Patterns in Bivalves](https://github.com/sr320/talk-ASLO-2019) - ASLO 2019 (San Juan, Puerto Rico) March 01, 2019.
 
-* [Parental winter exposures influence Olympia oyster larvae](https://figshare.com/articles/Parental_winter_exposures_influence_Olympia_oyster_larvae/9894434) - PCSGA/NSA-PCS 2019 (Portland, OR), September 17th, 2019. 
 
 #### 2018
 
