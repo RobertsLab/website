@@ -31,6 +31,8 @@ Shelly Trigg | [shellytrigg.github.io](https://shellytrigg.github.io/) |   [![Gi
 
 #### 2019
 
+* [Applying cutting-edge technology for reproductive control in bivalves](https://doi.org/10.6084/m9.figshare.9973361.v1) PCSGA (Portland, OR). September 18, 2019
+
 * [Effects of Bitter Crab Disease on the gene expression of Alaskan Tanner Crabs](https://figshare.com/articles/Effects_of_Bitter_Crab_Disease_on_the_gene_expression_of_Alaskan_Tanner_Crabs/9898916) PCSGA (Portland, OR). September 18, 2019
 
 * [Influence of Ocean Acidification on Pacific Oyster (*Crassostrea gigas*) DNA Methylation](https://doi.org/10.6084/m9.figshare.9897719.v1) PCSGA (Portland, OR). September 17, 2019
