@@ -301,6 +301,8 @@ Gavery, M., & Roberts, S. (2018). [Genetics & Epigenetics in Life History and Re
 <a id="preprint">
 ## PrePrints</a>
 
+Laura H Spencer, Yaamini R Venkataraman, Ryan Crim, Stuart Ryan, Micah J Horwith, Steven B Roberts (_In press_) Carry-over effects of temperature and pCO2 in multiple Olympia oyster populations. _Ecological Applications_. Pre-print in BioRxiv_. [https://doi.org/10.1101/616375](https://doi.org/10.1101/616375)
+
 Emma B. Timmins-Schiffman, Grace A. Crandall, Brent Vadopalas, Michael E. Riffle, Brook L. Nunn, Steven B. Roberts (2016) Integrating proteomics and selected reaction monitoring to develop a non-invasive assay for geoduck reproductive maturation. **bioRxiv** doi: <https://doi.org/10.1101/094615>
 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1101/094615" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
