@@ -31,6 +31,8 @@ Shelly Trigg | [shellytrigg.github.io](https://shellytrigg.github.io/) |   [![Gi
 
 #### 2019
 
+* [Effectes of Bitter Crab Disease on the gene expression of Alaska Tanner Crabs](https://figshare.com/articles/Effects_of_Bitter_Crab_Disease_on_the_gene_expression_of_Alaska_Tanner_Crabs/11120480) Presentation, SAFS Graduate Student Symposium, November 2019
+
 * [Environmental influence on the Atlantic salmon epigenome during sea lice infestation](https://doi.org/10.6084/m9.figshare.10882775) Presentation, International Conference on Integrative Salmonid Biology, November 2019  
 
 * [Carryover effects of temperature and pCO2 across multiple Olympia oyster populations](https://doi.org/10.6084/m9.figshare.10308056.v1) Poster, Washington Sea Grant Scholars Poster Session, October 2019  
