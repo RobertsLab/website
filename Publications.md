@@ -8,6 +8,8 @@ see also <a href="#preprint">*preprints*</a> and [_Google Scholar_](https://scho
 
 Timmins‐Schiffman E, Guzmán JM, Elliott Thompson R, Vadopalas B, Eudeline B, Roberts SB. (**2019**) [Dynamic response in the larval geoduck (_Panopea generosa_) proteome to elevated pCO2](https://doi.org/10.1002/ece3.5885). Ecol Evol.00: 1– 13. doi:10.1002/ece3.5885 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1002/ece3.5885" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
+<a href="https://doi.org/10.1002/ece3.5885"><img class="wp-image-2505 alignright" title="duck larvae" src="http://gannet.fish.washington.edu/seashell/snaps/ece35885-fig-0001-m.png" alt="heat-map" width="192" height="192" /></a>
+
 Gallardo-Escárate C, Valenzuela-Muñoz V, Núñez-Acuña , Carrera C, Gonçalves AT, Valenzuela-Miranda D, Benavente BP, Roberts SB. (**2019**) [Catching the complexity of salmon-louse interactions](https://doi.org/10.1016/j.fsi.2019.04.065) Fish & Shellfish Immunology. doi:10.1016/j.fsi.2019.04.065 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1016/j.fsi.2019.04.065" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
 Venkataraman YR, Spencer LH, Roberts SB. (**2019**) [Adult low pH exposure influences larval abundance in Pacific oysters (_Crassostrea gigas_)](http://hdl.handle.net/1773/43182) Journal of Shellfish Research.
