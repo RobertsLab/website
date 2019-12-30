@@ -16,8 +16,6 @@ Timmins‐Schiffman E, Guzmán JM, Elliott Thompson R, Vadopalas B, Eudeline B, 
 
 Gallardo-Escárate C, Valenzuela-Muñoz V, Núñez-Acuña , Carrera C, Gonçalves AT, Valenzuela-Miranda D, Benavente BP, Roberts SB. (**2019**) [Catching the complexity of salmon-louse interactions](https://doi.org/10.1016/j.fsi.2019.04.065) Fish & Shellfish Immunology. doi:10.1016/j.fsi.2019.04.065 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1016/j.fsi.2019.04.065" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
-Venkataraman YR, Spencer LH, Roberts SB. (**2019**) [Adult low pH exposure influences larval abundance in Pacific oysters (_Crassostrea gigas_)](http://hdl.handle.net/1773/43182) Journal of Shellfish Research.
-
 Spencer LH, Horwith M, Lowe AT, Venkataraman YR, Timmins-Schiffman E, Nunn BL, Roberts SB. (**2019**) [Pacific geoduck (_Panopea generosa_) resilience to natural pH variation](https://doi.org/10.1016/j.cbd.2019.01.010) Comparative Biochemistry and Physiology Part D: Genomics and Proteomics. doi:10.1016/j.cbd.2019.01.010 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1016/j.cbd.2019.01.010" data-hide-no-mentions="true" class="altmetric-embed"></span> [_bioRxiv_](https://doi.org/10.1101/432542)
 
 Venkataraman YR, Timmins-Schiffman E, Horwith MJ, Lowe AT, Nunn B, Vadopalas B, Spencer LH, Roberts SB. (**2019**) [Characterization of Pacific oyster _Crassostrea gigas_ proteomic response to natural environmental differences](https://doi.org/10.3354/meps12858) Mar Ecol Prog Ser 610:65-81. doi:10.3354/meps12858 <span data-badge-popover="right" data-badge-type="2" data-doi="10.3354/meps12858" data-hide-no-mentions="true" class="altmetric-embed"></span> [_bioRxiv_](https://doi.org/10.1101/460204)
