@@ -94,6 +94,8 @@ Shelly Trigg | [shellytrigg.github.io](https://shellytrigg.github.io/) |   [![Gi
 
 see also <a href="#preprint">*preprints*</a>
 
+Spencer, L.H., Venkataraman, Y.R., Crim, R., Ryan, S., Horwith, M.J. and Roberts, S.B. (**2019**) [Carryover effects of temperature and pCO2 across multiple Olympia oyster populations](https://doi.org/10.1002/eap.2060). Ecol Appl. doi:10.1002/eap.2060 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1002/eap.2060" data-hide-no-mentions="true" class="altmetric-embed"></span>
+
 Timmins‐Schiffman E, Guzmán JM, Elliott Thompson R, Vadopalas B, Eudeline B, Roberts SB. (**2019**) [Dynamic response in the larval geoduck (_Panopea generosa_) proteome to elevated pCO2](https://doi.org/10.1002/ece3.5885). Ecol Evol. 00: 1– 13. doi:10.1002/ece3.5885 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1002/ece3.5885" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
 <a href="https://doi.org/10.1002/ece3.5885"><img class="wp-image-2505 alignright" title="duck larvae" src="http://gannet.fish.washington.edu/seashell/snaps/ece35885-fig-0001-m.png" alt="heat-map" width="192" height="192" /></a>
