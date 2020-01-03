@@ -12,24 +12,6 @@ Associate Director of the School of Aquatic and Fishery Sciences at the Universi
 # Graduate Students
 
 
-### Jay Dimond
-
-<img src="http://eagle.fish.washington.edu/astrangia/jay.JPG" width="180" height="162" ALIGN = "left" border="10" style="border-color: white"/>
-
-I'm a naturalist at heart with a particular fascination with marine invertebrates. My background is primarily in the biology and ecology of symbiotic cnidarians, including reef corals and sea anemones that host endosymbiotic dinoflagellates and other photosymbionts. My work in the Roberts Lab will evaluate the role of epigenetics in the ability of these organisms to acclimatize and adapt to their environment, a topic that is especially relevant as we march on into the "anthropocene", an era of increasingly human-altered ecosystems. Contact: jldimond@uw.edu
-
-
-Funding:   
-
-John E. Halver (SAFS) Fellowship    
-ARCS Foundation Seattle Chapter    
-Hall Conservation Genetics Award    
-International Society for Reef Studies Graduate Fellowship
-
-
----
-
-
 ### Laura Spencer
 
 <img src="https://github.com/laurahspencer/LabNotebook/blob/master/images/IMG_4758.jpg?raw=true" width="180" height="162" ALIGN = "left" border="10" style="border-color: white"/>
@@ -111,12 +93,12 @@ Crystal Simchick
 
 Giles Goetz
 
-Andy Jasonowicz
 
 ---
 
 # Undergraduate Students
 
+Hana Ra
 
 ---
 
@@ -125,21 +107,23 @@ Andy Jasonowicz
 
 ### _Graduate Students_
 
+Jay Dimond
+
 Megan Hintz
 
 Rhonda Elliot
 
-[Jake Heare](http://heareresearch.blogspot.com/)
+Jake Heare
 
 Andy Jasonowicz
 
 Claire Olson
 
-[Mackenzie Gavery](http://students.washington.edu/mgavery/Welcome.html)
+Mackenzie Gavery
 
 [Emma Timmins-Schiffman](http://emmatimminsschiffman.weebly.com)
 
-[Doug Immerman](https://plus.google.com/u/0/117047808586108412854/about)
+Doug Immerman
 
 Caroline Storer
 
@@ -153,7 +137,6 @@ Dave Metzger
 Ronit (pre-college) (2019)
 
 Alanna Greene (2019)
-
 
 Grace Crandall (2016) [proposal](https://docs.google.com/document/d/1JfGHW-ou-9uNA5Ty8yz3eh2lTRMwnazGAGJQry16AOc/edit?usp=sharing) [paper](https://docs.google.com/document/d/1y-tYILgL0CJXYl1REl67167CPA0nK3sP4WabVMaeOP0/edit?usp=sharing)  [slides](https://docs.google.com/presentation/d/1iOL7psop59XczsrTr-hOIKJuxNpCivmh3rIZjdIvuC0/edit?usp=sharing)  [presentation](https://drive.google.com/file/d/0B9V_gF766XZAUUg2dTV1a2RMNVk/view?usp=sharing)  [notebook](http://genefish.wikispaces.com/Grace%27s+Notebook)
 
@@ -240,16 +223,22 @@ Zachary Schiller; Tufts University <a title="http://fish.washington.edu/research
 
 ### _Visiting Scientists_
 
-Marcos Espinel
+Javier A. Rodriguez-Casariego; Floridi International University    
+August 2019
+
+Roberto Carlos Arredondo Espinoza; Mexico
+Spring 2019
+
+Marcos Espinel; Universidad Científica del Sur, Peru
 April 2017
 
-Dr. Cristian Gallardo
+Dr. Cristian Gallardo; University of Concepcion
 Autumn 2016
 
-Dr. Hollie Putnam
+Dr. Hollie Putnam; Research Associate
 Autumn 2016      
 
-Jose Angel Hidalgo de la Toba - CIBNOR PhD student     
+Jose Angel Hidalgo de la Toba; CIBNOR PhD student     
 April 2016
 _New method for determining size at age in individuals to inform geoduck population models._  
 
