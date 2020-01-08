@@ -14,8 +14,7 @@ Our lab strives to make all research products readily available. This includes p
 Person | Notebook | GitHub
 --- | --- | ---
 Steven Roberts | [sr320.github.io](https://sr320.github.io/)  -  [ons/sr320](http://onsnetwork.org/halfshell/) |   [![GitHub followers](https://img.shields.io/github/followers/sr320.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/sr320)
-Sam White | [onsnetwork.org/kubu4](http://onsnetwork.org/kubu4/) |   [![GitHub followers](https://img.shields.io/github/followers/kubu4.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/kubu4)
-Jay Dimond | [onsnetwork.org/jdimond ](http://onsnetwork.org/jdimond/) |  [![GitHub followers](https://img.shields.io/github/followers/jldimond.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/jldimond)
+Sam White | [robertslab.github.io](https://robertslab.github.io/sams-notebook/) |   [![GitHub followers](https://img.shields.io/github/followers/kubu4.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/kubu4)
 Laura Spencer | [laurahspencer.github.io](https://laurahspencer.github.io/LabNotebook/)  | [![GitHub followers](https://img.shields.io/github/followers/laurahspencer.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/laurahspencer)
 Yaamini Venkataraman | [yaaminiv.github.io](https://yaaminiv.github.io/) | [![GitHub followers](https://img.shields.io/github/followers/yaaminiv.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/yaaminiv)
 Grace Crandall | [grace-ac.github.io](https://grace-ac.github.io/) |  [![GitHub followers](https://img.shields.io/github/followers/grace-ac.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/grace-ac)
@@ -45,7 +44,7 @@ Shelly Trigg | [shellytrigg.github.io](https://shellytrigg.github.io/) |   [![Gi
 
 * [A protein inventory reveals mechanisms of temperature impact on oyster development](https://github.com/shellytrigg/OysterSeedProject/tree/master/Presentations) Pacific Coast Shellfish Growers Association 2019 Conference (Portland, Oregon) September 17-19, 2019
 
-* [Parental winter exposures influence Olympia oyster larvae](https://figshare.com/articles/Parental_winter_exposures_influence_Olympia_oyster_larvae/9894434) - PCSGA/NSA-PCS 2019 (Portland, OR), September 17th, 2019. 
+* [Parental winter exposures influence Olympia oyster larvae](https://figshare.com/articles/Parental_winter_exposures_influence_Olympia_oyster_larvae/9894434) - PCSGA/NSA-PCS 2019 (Portland, OR), September 17th, 2019.
 
 * [Epigenetic Mechanisms in Marine Invertebrates: Perspectives and Applications](https://github.com/sr320/talk-grc-2019) Gordon Research Conference: Marine Molecular Ecology, Novel Insights into Marine Patterns and Processes (Hong Kong, China) July 15, 2019
 
