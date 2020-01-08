@@ -343,6 +343,10 @@ Thompson R and Roberts SB (**preprint**) Influence of carbon dioxide-induced aci
 
 <a id="theses">
 ## Theses</a>
+
+Patterns, dynamics, and potential roles of DNA methylation in reef corals and their allies. James Dimond. 2019 [http://hdl.handle.net/1773/44815](http://hdl.handle.net/1773/44815)
+
+
 Response of Olympia oysters (_Ostrea lurida_) to changing environmental conditions.  Jake Heare. 2015 [http://hdl.handle.net/1773/35206](http://hdl.handle.net/1773/35206)
 
 Genomic signatures of natural selection and population structure in West Coast and Alaskan sablefish (_Anoplopoma fimbria_).  Andrew Jasonowicz. 2014 [http://hdl.handle.net/1773/33907](http://hdl.handle.net/1773/33907)
