@@ -31,6 +31,22 @@ Shelly Trigg | [shellytrigg.github.io](https://shellytrigg.github.io/) |   [![Gi
 
 #### 2019
 
+* [Effectes of Bitter Crab Disease on the gene expression of Alaska Tanner Crabs](https://figshare.com/articles/Effects_of_Bitter_Crab_Disease_on_the_gene_expression_of_Alaska_Tanner_Crabs/11120480) Presentation, SAFS Graduate Student Symposium, November 2019
+
+* [Environmental influence on the Atlantic salmon epigenome during sea lice infestation](https://doi.org/10.6084/m9.figshare.10882775) Presentation, International Conference on Integrative Salmonid Biology, November 2019  
+
+* [Carryover effects of temperature and pCO2 across multiple Olympia oyster populations](https://doi.org/10.6084/m9.figshare.10308056.v1) Poster, Washington Sea Grant Scholars Poster Session, October 2019  
+
+* [Applying cutting-edge technology for reproductive control in bivalves](https://doi.org/10.6084/m9.figshare.9973361.v1) PCSGA (Portland, OR). September 18, 2019
+
+* [Effects of Bitter Crab Disease on the gene expression of Alaskan Tanner Crabs](https://figshare.com/articles/Effects_of_Bitter_Crab_Disease_on_the_gene_expression_of_Alaskan_Tanner_Crabs/9898916) PCSGA (Portland, OR). September 18, 2019
+
+* [Influence of Ocean Acidification on Pacific Oyster (*Crassostrea gigas*) DNA Methylation](https://doi.org/10.6084/m9.figshare.9897719.v1) PCSGA (Portland, OR). September 17, 2019
+
+* [A protein inventory reveals mechanisms of temperature impact on oyster development](https://github.com/shellytrigg/OysterSeedProject/tree/master/Presentations) Pacific Coast Shellfish Growers Association 2019 Conference (Portland, Oregon) September 17-19, 2019
+
+* [Parental winter exposures influence Olympia oyster larvae](https://figshare.com/articles/Parental_winter_exposures_influence_Olympia_oyster_larvae/9894434) - PCSGA/NSA-PCS 2019 (Portland, OR), September 17th, 2019. 
+
 * [Epigenetic Mechanisms in Marine Invertebrates: Perspectives and Applications](https://github.com/sr320/talk-grc-2019) Gordon Research Conference: Marine Molecular Ecology, Novel Insights into Marine Patterns and Processes (Hong Kong, China) July 15, 2019
 
 * [Epigenetic Variation in Shellfish and Implications for Aquaculture](https://github.com/sr320/talk-mj-2019) Aquaculture Canada (Victoria, British Columbia) May 07, 2019
@@ -46,6 +62,7 @@ Shelly Trigg | [shellytrigg.github.io](https://shellytrigg.github.io/) |   [![Gi
 * [Parental low pH exposure affects reproduction & larval gene expression in the Olympia oyster](https://doi.org/10.6084/m9.figshare.7841348) - Aquaculture 2019, (New Orleans, LA) March 7-11, 2019. [Student Spotlight competition](https://doi.org/10.6084/m9.figshare.7841336.v1)
 
 * [Comparative Analyses of DNA Methylation Patterns in Bivalves](https://github.com/sr320/talk-ASLO-2019) - ASLO 2019 (San Juan, Puerto Rico) March 01, 2019.
+
 
 #### 2018
 
@@ -77,13 +94,21 @@ Shelly Trigg | [shellytrigg.github.io](https://shellytrigg.github.io/) |   [![Gi
 
 see also <a href="#preprint">*preprints*</a>
 
-Gallardo-Escárate C, Valenzuela-Muñoz V, Núñez-Acuña , Carrera C, Gonçalves AT, Valenzuela-Miranda D, Benavente BP, Roberts SB. (**2019**) [Catching the complexity of salmon-louse interactions](https://doi.org/10.1016/j.fsi.2019.04.065) Fish & Shellfish Immunology. doi:10.1016/j.fsi.2019.04.065 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1016/j.fsi.2019.04.065" data-hide-no-mentions="true" class="altmetric-embed"></span>
+Venkataraman YR, Spencer LH, Roberts SB. (**2019**) [Larval Response to Parental Low pH Exposure in the Pacific Oyster _Crassostrea gigas_](https://doi.org/10.2983/035.038.0325) Journal of Shellfish Research, 38(3), 743-750. doi:10.2983/035.038.0325 <span data-badge-popover="right" data-badge-type="2" data-doi="10.2983/035.038.0325" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
-Venkataraman YR, Spencer LH, Roberts SB. (**2019**) [Adult low pH exposure influences larval abundance in Pacific oysters (_Crassostrea gigas_)](http://hdl.handle.net/1773/43182) Journal of Shellfish Research.
+Spencer, L.H., Venkataraman, Y.R., Crim, R., Ryan, S., Horwith, M.J. and Roberts, S.B. (**2019**) [Carryover effects of temperature and pCO2 across multiple Olympia oyster populations](https://doi.org/10.1002/eap.2060). Ecol Appl. doi:10.1002/eap.2060 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1002/eap.2060" data-hide-no-mentions="true" class="altmetric-embed"></span>
+
+Timmins‐Schiffman E, Guzmán JM, Elliott Thompson R, Vadopalas B, Eudeline B, Roberts SB. (**2019**) [Dynamic response in the larval geoduck (_Panopea generosa_) proteome to elevated pCO2](https://doi.org/10.1002/ece3.5885). Ecol Evol. 00: 1– 13. doi:10.1002/ece3.5885 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1002/ece3.5885" data-hide-no-mentions="true" class="altmetric-embed"></span>
+
+<a href="https://doi.org/10.1002/ece3.5885"><img class="wp-image-2505 alignright" title="duck larvae" src="http://gannet.fish.washington.edu/seashell/snaps/ece35885-fig-0001-m.png" alt="heat-map" width="192" height="192" /></a>
+
+Gallardo-Escárate C, Valenzuela-Muñoz V, Núñez-Acuña , Carrera C, Gonçalves AT, Valenzuela-Miranda D, Benavente BP, Roberts SB. (**2019**) [Catching the complexity of salmon-louse interactions](https://doi.org/10.1016/j.fsi.2019.04.065) Fish & Shellfish Immunology. doi:10.1016/j.fsi.2019.04.065 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1016/j.fsi.2019.04.065" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
 Spencer LH, Horwith M, Lowe AT, Venkataraman YR, Timmins-Schiffman E, Nunn BL, Roberts SB. (**2019**) [Pacific geoduck (_Panopea generosa_) resilience to natural pH variation](https://doi.org/10.1016/j.cbd.2019.01.010) Comparative Biochemistry and Physiology Part D: Genomics and Proteomics. doi:10.1016/j.cbd.2019.01.010 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1016/j.cbd.2019.01.010" data-hide-no-mentions="true" class="altmetric-embed"></span> [_bioRxiv_](https://doi.org/10.1101/432542)
 
 Venkataraman YR, Timmins-Schiffman E, Horwith MJ, Lowe AT, Nunn B, Vadopalas B, Spencer LH, Roberts SB. (**2019**) [Characterization of Pacific oyster _Crassostrea gigas_ proteomic response to natural environmental differences](https://doi.org/10.3354/meps12858) Mar Ecol Prog Ser 610:65-81. doi:10.3354/meps12858 <span data-badge-popover="right" data-badge-type="2" data-doi="10.3354/meps12858" data-hide-no-mentions="true" class="altmetric-embed"></span> [_bioRxiv_](https://doi.org/10.1101/460204)
+
+Juárez, O., Lafarga-De la Cruz, F., Leyva-Valencia, I., López-Landavery, E., García-Esquivel, Z., Díaz, F., Re-Araujo, D., Vadopalas, B., and C. Galindo-Sánchez. (**2018**). [Transcriptomic and metabolic response to chronic and acute thermal exposure of juvenile geoduck clams _Panopea globosa_](https://doi.org/10.1016/j.margen.2018.09.003). Marine Genomics. doi:10.1016/j.margen.2018.09.003 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1016/j.margen.2018.09.003" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
 Javier A. Rodriguez‐Casariego, Mark C. Ladd, Andrew A. Shantz, Christian Lopes, Manjinder S. Cheema, Bohyun Kim, Steven B. Roberts, James W. Fourqurean, Juan Ausio, Deron E. Burkepile, and Jose M. Eirin‐Lopez. (**2018**) [Coral epigenetic responses to nutrient stress: Histone H2A.X phosphorylation dynamics and DNA methylation in the staghorn coral _Acropora cervicornis_](https://doi.org/10.1002/ece3.4678) Ecol Evol. 2018;00:1–15. doi:10.1002/ece3.4678 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1002/ece3.4678" data-hide-no-mentions="true" class="altmetric-embed"></span> [pdf](http://gannet.fish.washington.edu/seashell/snaps/Rodriguez-Casariego_et_al-2018-Ecology_and_Evolution.pdf)
 
@@ -290,6 +315,8 @@ Gavery, M., & Roberts, S. (2018). [Genetics & Epigenetics in Life History and Re
 <a id="preprint">
 ## PrePrints</a>
 
+Laura H Spencer, Yaamini R Venkataraman, Ryan Crim, Stuart Ryan, Micah J Horwith, Steven B Roberts (_In press_) Carry-over effects of temperature and pCO2 in multiple Olympia oyster populations. _Ecological Applications_. Pre-print in BioRxiv_. [https://doi.org/10.1101/616375](https://doi.org/10.1101/616375)
+
 Emma B. Timmins-Schiffman, Grace A. Crandall, Brent Vadopalas, Michael E. Riffle, Brook L. Nunn, Steven B. Roberts (2016) Integrating proteomics and selected reaction monitoring to develop a non-invasive assay for geoduck reproductive maturation. **bioRxiv** doi: <https://doi.org/10.1101/094615>
 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1101/094615" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
@@ -345,7 +372,6 @@ Thompson R and Roberts SB (**preprint**) Influence of carbon dioxide-induced aci
 ## Theses</a>
 
 Patterns, dynamics, and potential roles of DNA methylation in reef corals and their allies. James Dimond. 2019 [http://hdl.handle.net/1773/44815](http://hdl.handle.net/1773/44815)
-
 
 Response of Olympia oysters (_Ostrea lurida_) to changing environmental conditions.  Jake Heare. 2015 [http://hdl.handle.net/1773/35206](http://hdl.handle.net/1773/35206)
 
