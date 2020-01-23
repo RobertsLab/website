@@ -28,6 +28,11 @@ Shelly Trigg | [shellytrigg.github.io](https://shellytrigg.github.io/) |   [![Gi
 <a id="pres">
 ## Recent Presentations</a>
 
+#### 2020
+* [Influence of ocean acidification on
+DNA methylation patterns in geoduck](https://github.com/shellytrigg/talk-pag2020) Presentation, The Plant and Animal Genome XXVII Conference (PAG), San Diego, CA, January 2020
+
+
 #### 2019
 
 * [Effectes of Bitter Crab Disease on the gene expression of Alaska Tanner Crabs](https://figshare.com/articles/Effects_of_Bitter_Crab_Disease_on_the_gene_expression_of_Alaska_Tanner_Crabs/11120480) Presentation, SAFS Graduate Student Symposium, November 2019
