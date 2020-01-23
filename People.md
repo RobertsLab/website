@@ -74,7 +74,7 @@ Funding:
 ### Shelly Trigg
 [Lab notebook](https://shellytrigg.github.io) | [CV](http://htmlpreview.github.com/?https://github.com/shellytrigg/shellytrigg.github.io/blob/master/docs/ShellyTrigg-CV_09192018.html) | strigg@uw.edu | [ORCID iD](https://orcid.org/0000-0001-6904-4149)
 
-<img src="https://github.com/shellytrigg/shellytrigg.github.io/blob/master/images/shelly_muk_crabs.jpg?raw=true" width="130" height="140" border = "5" ALIGN = "left" border="10" style="border-color: white"/>
+<img src="https://github.com/shellytrigg/shellytrigg.github.io/blob/master/images/Shelly-White-Headshot-web-copy-2.jpeg?raw=true" width="140" height="219" border = "5" ALIGN = "left" border="10" style="border-color: white"/>
 
 I joined the Roberts lab in September 2018 after completing my Ph.D. in Biolgoy at UC San Diego. My main interests are in research and public education outreach on how organisms’ molecular networks respond to human-influenced environmental change. My current research focuses on how ocean acidification impacts physiology and epigenetic variation in bivalves.  
 <br>
