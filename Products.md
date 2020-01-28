@@ -98,7 +98,7 @@ DNA methylation patterns in geoduck](https://github.com/shellytrigg/talk-pag2020
 
 see also <a href="#preprint">*preprints*</a>
 
-Dimond JL and Roberts SB. (**2020**) [Convergence of DNA Methylation Profiles of the Reef Coral Porites astreoides in a Novel Environment](https://doi.org/10.3389/fmars.2019.00792) Frontiers in Marine Science. vol 6. doi:10.3389/fmars.2019.00792 <span data-badge-popover="right" data-badge-type="2" data-doi="10.3389/fmars.2019.00792" data-hide-no-mentions="true" class="altmetric-embed"></span>
+Dimond JL and Roberts SB. (**2020**) [Convergence of DNA Methylation Profiles of the Reef Coral _Porites astreoides_ in a Novel Environment](https://doi.org/10.3389/fmars.2019.00792) Frontiers in Marine Science. vol 6. doi:10.3389/fmars.2019.00792 <span data-badge-popover="right" data-badge-type="2" data-doi="10.3389/fmars.2019.00792" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
 Venkataraman YR, Spencer LH, Roberts SB. (**2019**) [Larval Response to Parental Low pH Exposure in the Pacific Oyster _Crassostrea gigas_](https://doi.org/10.2983/035.038.0325) Journal of Shellfish Research, 38(3), 743-750. doi:10.2983/035.038.0325 <span data-badge-popover="right" data-badge-type="2" data-doi="10.2983/035.038.0325" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
