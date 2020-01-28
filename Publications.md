@@ -6,6 +6,8 @@
 
 see also <a href="#preprint">*preprints*</a> and [_Google Scholar_](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=aAoYWVUAAAAJ&view_op=list_works)
 
+Dimond JL and Roberts SB. (**2020**) [Convergence of DNA Methylation Profiles of the Reef Coral Porites astreoides in a Novel Environment](https://doi.org/10.3389/fmars.2019.00792) Frontiers in Marine Science. vol 6. doi:10.3389/fmars.2019.00792 <span data-badge-popover="right" data-badge-type="2" data-doi="10.3389/fmars.2019.00792" data-hide-no-mentions="true" class="altmetric-embed"></span>
+
 Venkataraman YR, Spencer LH, Roberts SB. (**2019**) [Larval Response to Parental Low pH Exposure in the Pacific Oyster _Crassostrea gigas_](https://doi.org/10.2983/035.038.0325) Journal of Shellfish Research, 38(3), 743-750. doi:10.2983/035.038.0325 <span data-badge-popover="right" data-badge-type="2" data-doi="10.2983/035.038.0325" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
 Spencer, L.H., Venkataraman, Y.R., Crim, R., Ryan, S., Horwith, M.J. and Roberts, S.B. (**2019**) [Carryover effects of temperature and pCO2 across multiple Olympia oyster populations](https://doi.org/10.1002/eap.2060). Ecol Appl. doi:10.1002/eap.2060 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1002/eap.2060" data-hide-no-mentions="true" class="altmetric-embed"></span>
