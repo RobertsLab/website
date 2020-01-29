@@ -13,7 +13,7 @@ Our lab strives to make all research products readily available. This includes p
 
 Person | Notebook | GitHub
 --- | --- | ---
-Steven Roberts | [sr320.github.io](https://sr320.github.io/)  -  [ons/sr320](http://onsnetwork.org/halfshell/) |   [![GitHub followers](https://img.shields.io/github/followers/sr320.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/sr320)
+Steven Roberts | [sr320.github.io](https://sr320.github.io/) |   [![GitHub followers](https://img.shields.io/github/followers/sr320.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/sr320)
 Sam White | [robertslab.github.io](https://robertslab.github.io/sams-notebook/) |   [![GitHub followers](https://img.shields.io/github/followers/kubu4.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/kubu4)
 Laura Spencer | [laurahspencer.github.io](https://laurahspencer.github.io/LabNotebook/)  | [![GitHub followers](https://img.shields.io/github/followers/laurahspencer.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/laurahspencer)
 Yaamini Venkataraman | [yaaminiv.github.io](https://yaaminiv.github.io/) | [![GitHub followers](https://img.shields.io/github/followers/yaaminiv.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/yaaminiv)
