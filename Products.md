@@ -69,28 +69,6 @@ Shelly Trigg | [shellytrigg.github.io](https://shellytrigg.github.io/) |   [![Gi
 * [Comparative Analyses of DNA Methylation Patterns in Bivalves](https://github.com/sr320/talk-ASLO-2019) - ASLO 2019 (San Juan, Puerto Rico) March 01, 2019.
 
 
-#### 2018
-
-* [Carry-over effects of parental pH exposure in the Olympia oyster](https://doi.org/10.6084/m9.figshare.7130837.v1) PCSGA (Blaine, WA). September 19, 2018
-
-* [Adult low pH exposure influences larval abundance in Pacific oysters (*Crassostrea gigas*)](https://github.com/RobertsLab/project-oyster-oa/blob/master/presentations/Manchester/Venkataraman_NSA2018.pptx) Western Society of Naturalists (Tacoma, WA). November 9, 2018
-
-* [Influence of Ocean Acidification on the Epigenome of Oyster Reproductive Tissue](https://figshare.com/s/f80800d0a1739bdd2726) PCSGA (Blaine, WA). September 19, 2018
-
-* [Response of DNA methylation to environmental change in the reef coral *Porites astreoides* and its associated *Symbiodinium*](https://github.com/jldimond/P.ast-transplant/blob/master/Symbiosis2018_Dimond2.pdf) International Symbiosis Society Congress (Corvallis, OR). July 20, 2018
-
-* [Response of DNA methylation to environmental change in the reef coral *Porites astreoides*](https://github.com/jldimond/P.ast-transplant/blob/master/MarEvo2018_Dimond.pdf) Marine Evolution 2018 (Strömstad, Sweden). May 15, 2018
-
-* [Epigenetic variation in oysters and implications for aquaculture](https://github.com/sr320/talk-Rushan-2018/blob/master/2018-Rushan-Roberts.pdf) China International Oyster Forum - April 21-23 Rushan China
-
-* [Pre-Gametogenic pH exposure induces larval carryover effect](https://github.com/RobertsLab/project-oyster-oa/blob/master/presentations/Manchester/Venkataraman_NSA2018.pptx) NSA (Seattle, WA). March 22, 2018
-
-* Genetic testing informs breeding methods for native oyster restoration - presented at [Aquaculture America](https://doi.org/10.6084/m9.figshare.8066327.v1) (Las Vegas, NV), February 2018, and at the [National Shellfisheries Association conference](https://doi.org/10.6084/m9.figshare.8066333.v1) (Seattle, WA), March 2018
-
-* [Native oyster restoration in Washington State, USA](https://doi.org/10.6084/m9.figshare.8066336.v1) - Port Stephens Fisheries Research Institute (New South Wales, Australia), June 2018.
-
-
-
 
 ---
 
