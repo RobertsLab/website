@@ -229,7 +229,7 @@ Zachary Schiller; Tufts University <a title="http://fish.washington.edu/research
 
 ### _Visiting Scientists_
 
-Javier A. Rodriguez-Casariego; Floridi International University    
+Javier A. Rodriguez-Casariego; Florida International University    
 August 2019
 
 Roberto Carlos Arredondo Espinoza; Mexico
