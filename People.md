@@ -100,10 +100,16 @@ Giles Goetz
 
 Hana Ra
 
+Delenay Lawson
+
 ---
 
 # Alumni
 <br>
+
+### _Postdoctoral Research Associates_
+
+Hollie Putnam
 
 ### _Graduate Students_
 
