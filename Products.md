@@ -29,10 +29,12 @@ Shelly Trigg | [shellytrigg.github.io](https://shellytrigg.github.io/) |   [![Gi
 ## Recent Presentations</a>
 
 #### 2020
+
+* [Influence of ocean acidification on eastern (_Crassostrea virginica_) and Pacific oyster (_Crassostrea gigas_) DNA mthylation](https://doi.org/10.6084/m9.figshare.11868231.v1) Poster, Ocean Sciences Meeting 2020, San Diego, CA February 2020
+
 * [DNA methylation associations with growth rate in Olympia oyster populations](https://doi.org/10.6084/m9.figshare.11857854.v1) presentation, Aquaculture America 2020, Honolulu, HI, February 2020  
 
 * [Influence of ocean acidification on DNA methylation patterns in geoduck](https://github.com/shellytrigg/talk-pag2020) Presentation, The Plant and Animal Genome XXVII Conference (PAG), San Diego, CA, January 2020
-
 
 #### 2019
 
