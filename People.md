@@ -72,11 +72,13 @@ Funding:
 # Postdoctoral Research Associates
 
 ### Shelly Trigg
-[Lab notebook](https://shellytrigg.github.io) | [CV](http://htmlpreview.github.com/?https://github.com/shellytrigg/shellytrigg.github.io/blob/master/docs/ShellyTrigg-CV_09192018.html) | satrigg@uw.edu | [ORCID iD](https://orcid.org/0000-0001-6904-4149)
+[Lab notebook](https://shellytrigg.github.io) | [CV](http://htmlpreview.github.com/?https://github.com/shellytrigg/shellytrigg.github.io/blob/master/docs/ShellyTrigg-CV_09192018.html) | strigg@uw.edu | [ORCID iD](https://orcid.org/0000-0001-6904-4149)
 
-<img src="https://github.com/shellytrigg/shellytrigg.github.io/blob/master/images/shelly_muk_crabs.jpg?raw=true" width="130" height="140" border = "5" ALIGN = "left" border="10" style="border-color: white"/>
+<img src="https://github.com/shellytrigg/shellytrigg.github.io/blob/master/images/Shelly-White-Headshot-web-copy-2.jpeg?raw=true" width="140" height="219" border = "5" ALIGN = "left" border="10" style="border-color: white"/>
 
-I joined the Roberts lab in September 2018 after completing my Ph.D. in Biolgoy at UC San Diego. My main interests are in research and public education outreach on how organisms’ molecular networks respond to human-influenced environmental change. My current research focuses on how ocean acidification impacts physiology and epigenetic variation in bivalves.  
+I joined the Roberts lab in September 2018 after completing my Ph.D. in Biolgoy at UC San Diego. My main interests are in research and public education outreach on how organisms’ molecular networks respond to environmental change (particularly human-influenced environmental change). I conduct experiments that simulate various ocean conditions and use omics technologies (like epigenomics, proteomics, and metabolomics) to measure animal response. To process these diverse datasets, I develop and implement bioinformatics pipelines for data normalization, statistical analyses, and biological pathway analyses. I use an [open access online lab notebook](https://shellytrigg.github.io) and [GitHub](https://github.com/shellytrigg) to publicly share my analyses and support reproducibility. My current research focuses on how environmental change impacts physiology, epigenetic and proteomic variation in bivalves, salmon, and sea lice. My research addresses the overarching goal of understanding how the environment influences organismal molecular systems and identifying collective responses that could be predictive of species tolerance for environmental change. I aim for my research to contribute to informing policy in both aquaculture and conservation fields, and to contribute to education around how climate change may impact certain animals. Towards this, I collaborate with commercial, tribal, and governmental fisheries organizations, and actively participate in outreach media development. Outside of research, I enjoy all outdoor activities from co-ed team sports to hiking, backpacking, camping, fly-fishing, climbing, and snowboarding.
+
+
 <br>
 
 ---

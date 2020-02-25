@@ -13,7 +13,7 @@ Our lab strives to make all research products readily available. This includes p
 
 Person | Notebook | GitHub
 --- | --- | ---
-Steven Roberts | [sr320.github.io](https://sr320.github.io/)  -  [ons/sr320](http://onsnetwork.org/halfshell/) |   [![GitHub followers](https://img.shields.io/github/followers/sr320.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/sr320)
+Steven Roberts | [sr320.github.io](https://sr320.github.io/) |   [![GitHub followers](https://img.shields.io/github/followers/sr320.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/sr320)
 Sam White | [robertslab.github.io](https://robertslab.github.io/sams-notebook/) |   [![GitHub followers](https://img.shields.io/github/followers/kubu4.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/kubu4)
 Laura Spencer | [laurahspencer.github.io](https://laurahspencer.github.io/LabNotebook/)  | [![GitHub followers](https://img.shields.io/github/followers/laurahspencer.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/laurahspencer)
 Yaamini Venkataraman | [yaaminiv.github.io](https://yaaminiv.github.io/) | [![GitHub followers](https://img.shields.io/github/followers/yaaminiv.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/yaaminiv)
@@ -28,11 +28,21 @@ Shelly Trigg | [shellytrigg.github.io](https://shellytrigg.github.io/) |   [![Gi
 <a id="pres">
 ## Recent Presentations</a>
 
+#### 2020
+
+* [Influence of ocean acidification on eastern (_Crassostrea virginica_) and Pacific oyster (_Crassostrea gigas_) DNA mthylation](https://doi.org/10.6084/m9.figshare.11868231.v1) Poster, Ocean Sciences Meeting 2020, San Diego, CA February 2020
+
+* [DNA methylation associations with growth rate in Olympia oyster populations](https://doi.org/10.6084/m9.figshare.11857854.v1) presentation, Aquaculture America 2020, Honolulu, HI, February 2020  
+
+* [Influence of ocean acidification on DNA methylation patterns in geoduck](https://github.com/shellytrigg/talk-pag2020) Presentation, The Plant and Animal Genome XXVII Conference (PAG), San Diego, CA, January 2020
+
 #### 2019
 
-* [Effectes of Bitter Crab Disease on the gene expression of Alaska Tanner Crabs](https://figshare.com/articles/Effects_of_Bitter_Crab_Disease_on_the_gene_expression_of_Alaska_Tanner_Crabs/11120480) Presentation, SAFS Graduate Student Symposium, November 2019
+* [Effects of Bitter Crab Disease on the gene expression of Alaska Tanner Crabs](https://figshare.com/articles/Effects_of_Bitter_Crab_Disease_on_the_gene_expression_of_Alaska_Tanner_Crabs/11120480) Presentation, SAFS Graduate Student Symposium, November 2019
 
 * [Environmental influence on the Atlantic salmon epigenome during sea lice infestation](https://doi.org/10.6084/m9.figshare.10882775) Presentation, International Conference on Integrative Salmonid Biology, November 2019  
+
+* [Influence of Ocean Acidification on Pacific Oyster (*Crassostrea gigas*) DNA Methylation](https://doi.org/10.6084/m9.figshare.9897719.v2) WSN (Ensenada, MX). November 1, 2019
 
 * [Carryover effects of temperature and pCO2 across multiple Olympia oyster populations](https://doi.org/10.6084/m9.figshare.10308056.v1) Poster, Washington Sea Grant Scholars Poster Session, October 2019  
 
@@ -63,28 +73,6 @@ Shelly Trigg | [shellytrigg.github.io](https://shellytrigg.github.io/) |   [![Gi
 * [Comparative Analyses of DNA Methylation Patterns in Bivalves](https://github.com/sr320/talk-ASLO-2019) - ASLO 2019 (San Juan, Puerto Rico) March 01, 2019.
 
 
-#### 2018
-
-* [Carry-over effects of parental pH exposure in the Olympia oyster](https://doi.org/10.6084/m9.figshare.7130837.v1) PCSGA (Blaine, WA). September 19, 2018
-
-* [Adult low pH exposure influences larval abundance in Pacific oysters (*Crassostrea gigas*)](https://github.com/RobertsLab/project-oyster-oa/blob/master/presentations/Manchester/Venkataraman_NSA2018.pptx) Western Society of Naturalists (Tacoma, WA). November 9, 2018
-
-* [Influence of Ocean Acidification on the Epigenome of Oyster Reproductive Tissue](https://figshare.com/s/f80800d0a1739bdd2726) PCSGA (Blaine, WA). September 19, 2018
-
-* [Response of DNA methylation to environmental change in the reef coral *Porites astreoides* and its associated *Symbiodinium*](https://github.com/jldimond/P.ast-transplant/blob/master/Symbiosis2018_Dimond2.pdf) International Symbiosis Society Congress (Corvallis, OR). July 20, 2018
-
-* [Response of DNA methylation to environmental change in the reef coral *Porites astreoides*](https://github.com/jldimond/P.ast-transplant/blob/master/MarEvo2018_Dimond.pdf) Marine Evolution 2018 (Strömstad, Sweden). May 15, 2018
-
-* [Epigenetic variation in oysters and implications for aquaculture](https://github.com/sr320/talk-Rushan-2018/blob/master/2018-Rushan-Roberts.pdf) China International Oyster Forum - April 21-23 Rushan China
-
-* [Pre-Gametogenic pH exposure induces larval carryover effect](https://github.com/RobertsLab/project-oyster-oa/blob/master/presentations/Manchester/Venkataraman_NSA2018.pptx) NSA (Seattle, WA). March 22, 2018
-
-* Genetic testing informs breeding methods for native oyster restoration - presented at [Aquaculture America](https://doi.org/10.6084/m9.figshare.8066327.v1) (Las Vegas, NV), February 2018, and at the [National Shellfisheries Association conference](https://doi.org/10.6084/m9.figshare.8066333.v1) (Seattle, WA), March 2018
-
-* [Native oyster restoration in Washington State, USA](https://doi.org/10.6084/m9.figshare.8066336.v1) - Port Stephens Fisheries Research Institute (New South Wales, Australia), June 2018.
-
-
-
 
 ---
 
@@ -92,6 +80,8 @@ Shelly Trigg | [shellytrigg.github.io](https://shellytrigg.github.io/) |   [![Gi
 ## Peer-Reviewed Publications</a>     
 
 see also <a href="#preprint">*preprints*</a>
+
+Dimond JL and Roberts SB. (**2020**) [Convergence of DNA Methylation Profiles of the Reef Coral _Porites astreoides_ in a Novel Environment](https://doi.org/10.3389/fmars.2019.00792) Frontiers in Marine Science. vol 6. doi:10.3389/fmars.2019.00792 <span data-badge-popover="right" data-badge-type="2" data-doi="10.3389/fmars.2019.00792" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
 Venkataraman YR, Spencer LH, Roberts SB. (**2019**) [Larval Response to Parental Low pH Exposure in the Pacific Oyster _Crassostrea gigas_](https://doi.org/10.2983/035.038.0325) Journal of Shellfish Research, 38(3), 743-750. doi:10.2983/035.038.0325 <span data-badge-popover="right" data-badge-type="2" data-doi="10.2983/035.038.0325" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
