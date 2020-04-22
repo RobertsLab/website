@@ -6,6 +6,8 @@
 
 see also <a href="#preprint">*preprints*</a> and [_Google Scholar_](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=aAoYWVUAAAAJ&view_op=list_works)
 
+Venkataraman Yaamini R., Downey-Wall Alan M., Ries Justin, Westfield Isaac, White Samuel J., Roberts Steven B., Lotterhos Kathleen E (**2020**) [General DNA Methylation Patterns and Environmentally-Induced Differential Methylation in the Eastern Oyster (_Crassostrea virginica_)](https://doi.org/10.3389/fmars.2020.00225) Frontiers in Marine Science, Volume 7, Page 225. doi:10.3389/fmars.2020.00225  <span data-badge-popover="right" data-badge-type="2" data-doi="10.3389/fmars.2020.00225" data-hide-no-mentions="true" class="altmetric-embed"></span>
+
 Gurr SJ, Vadopalas B, Roberts SB, Putnam HM (**2020**) [Metabolic recovery and compensatory shell growth of juvenile Pacific geoduck _Panopea generosa_ following short-term exposure to acidified seawater](https://doi.org/10.1093/conphys/coaa024) Conservation Physiology, Volume 8, Issue 1, coaa024. doi:10.1093/conphys/coaa024 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1093/conphys/coaa024" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
 Spencer, LH, Venkataraman, YR, Crim R, Ryan S, Horwith MJ, and Roberts SB (**2020**) [Carryover effects of temperature and pCO2 across multiple Olympia oyster populations](https://doi.org/10.1002/eap.2060). Ecological Applications 00( 00):e02060. doi:10.1002/eap.2060 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1002/eap.2060" data-hide-no-mentions="true" class="altmetric-embed"></span>
