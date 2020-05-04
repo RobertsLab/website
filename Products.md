@@ -81,6 +81,7 @@ Shelly Trigg | [shellytrigg.github.io](https://shellytrigg.github.io/) |   [![Gi
 
 see also <a href="#preprint">*preprints*</a>
 
+Emma Timmins-Schiffman, José M. Guzmán, Rhonda Elliott Thompson, Brent Vadopalas, Benoit Eudeline and Steven B. Roberts (**2020**) [Larval Geoduck (_Panopea generosa_) Proteomic Response to Ciliates](https://doi.org/10.1038/s41598-020-63218-x) Scientific Reports 10, 6042. doi:10.1038/s41598-020-63218-x <span data-badge-popover="right" data-badge-type="2" data-doi="10.1038/s41598-020-63218-x" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
 Venkataraman Yaamini R., Downey-Wall Alan M., Ries Justin, Westfield Isaac, White Samuel J., Roberts Steven B., Lotterhos Kathleen E (**2020**) [General DNA Methylation Patterns and Environmentally-Induced Differential Methylation in the Eastern Oyster (_Crassostrea virginica_)](https://doi.org/10.3389/fmars.2020.00225) Frontiers in Marine Science, Volume 7, Page 225. doi:10.3389/fmars.2020.00225  <span data-badge-popover="right" data-badge-type="2" data-doi="10.3389/fmars.2020.00225" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
