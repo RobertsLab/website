@@ -235,6 +235,8 @@ Gavery, M., & Roberts, S. (2018). [Genetics & Epigenetics in Life History and Re
 <a id="preprint">
 ## PrePrints</a>
 
+Shelly A Trigg, Kaitlyn R Mitchell, Rhonda Elliott Thompson, Benoit Eudeline, Brent Vadopalas, Emma B Timmins-Schiffman, Steven B Roberts (2020). Temporal proteomic profiling reveals insight into critical devleopmental processes and temperature-influenced physiological response differences in a bivalve mollusc. **bioRxiv**. https://doi.org/10.1101/2020.06.05.137059 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1101/2020.06.05.137059" data-hide-no-mentions="true" class="altmetric-embed"></span>
+
 Emma B. Timmins-Schiffman, Grace A. Crandall, Brent Vadopalas, Michael E. Riffle, Brook L. Nunn, Steven B. Roberts (2016) Integrating proteomics and selected reaction monitoring to develop a non-invasive assay for geoduck reproductive maturation. **bioRxiv** doi: <https://doi.org/10.1101/094615>
 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1101/094615" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
