@@ -369,6 +369,8 @@ Thompson R and Roberts SB (**preprint**) Influence of carbon dioxide-induced aci
 <a id="theses">
 ## Theses</a>
 
+Impacts of temperature on the molecular response of shellfish. Grace Crandall. 2020 [http://hdl.handle.net/1773/46010](http://hdl.handle.net/1773/46010)
+
 Patterns, dynamics, and potential roles of DNA methylation in reef corals and their allies. James Dimond. 2019 [http://hdl.handle.net/1773/44815](http://hdl.handle.net/1773/44815)
 
 Response of Olympia oysters (_Ostrea lurida_) to changing environmental conditions.  Jake Heare. 2015 [http://hdl.handle.net/1773/35206](http://hdl.handle.net/1773/35206)
