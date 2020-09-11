@@ -2,7 +2,7 @@
 # Principal Investigator
 ### [Steven Roberts](http://faculty.washington.edu/sr320/?page_id=3577)
 
-<img src="https://fish.uw.edu/wp-content/uploads/sites/4/2015/05/Steven-Roberts1-528x528.jpg" width="144" height="142" ALIGN = "left" border="10" style="border-color: white"/>
+<img src="http://faculty.washington.edu/sr320/wordpress/wp-content/uploads/2020/09/Roberts06.jpg" width="144" height="142" ALIGN = "left" border="10" style="border-color: white"/>
 
 Associate Director of the School of Aquatic and Fishery Sciences at the University of Washington where his research focuses on characterizing physiological response of aquatic species to environmental change with a particular focus on the relationship of transcriptomics, genetics, and epigenetic modifications. Current research efforts include characterizing the adaptive potential of native bivalves in Puget Sound and the functional role of DNA methylation in marine invertebrates.
 
