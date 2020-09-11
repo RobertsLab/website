@@ -1,6 +1,6 @@
 
 # Principal Investigator
-### [Steven Roberts](http://faculty.washington.edu/sr320/?page_id=3577)
+### Steven Roberts
 
 <img src="http://faculty.washington.edu/sr320/wordpress/wp-content/uploads/2020/09/Roberts06.jpg" width="144" height="142" ALIGN = "left" border="10" style="border-color: white"/>
 
