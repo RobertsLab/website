@@ -68,6 +68,21 @@ Funding:
 
 - [North Pacific Research Board](https://www.nprb.org) (Fall 2018 - present)
 
+### Aidan Coyle
+[Lab notebook](https://afcoyle.github.io/) | afcoyle@uw.edu
+
+<img src="https://raw.githubusercontent.com/afcoyle/afcoyle-misc/master/download%20(3).png" width="152" height="162" ALIGN = "left" border="10" style="border-color: white"/>
+
+Growing up in coastal Alaska, I spent most of my youth being poked by sea urchins and stung by jellyfish. Undeterred, I dove into marine research at Bowdoin College, and investigated the invasive European green crab and uncovered a linkage between cold tolerance and mitochondrial genotype. After graduating, I joined the Alaska Department of Fish and Game, where I investigated snow and Tanner crab fecundity and movement, surveyed the St. Matthew Island blue king crab population, and gathered data on Kodiak-area fisheries. I also spent a summer at a remote salmon weir, where I monitored the sockeye run and made incredible quantities of jam. I then joined the Washington Department of Fish and Wildlife and researched forage fish spawning and development. While at the Roberts lab, I plan to investigate how Bitter Crab Syndrome impacts Tanner crabs in southeast Alaska. 
+
+If you'd like to hear about my research, adjusting to grad school, or anything else, feel free to email me!
+
+Funding:
+
+-School of Aquatic and Fishery Sciences Fellowship (September 2020-Present)
+
+
+
 ---
 # Postdoctoral Research Associates
 
