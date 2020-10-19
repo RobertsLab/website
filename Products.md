@@ -30,7 +30,7 @@ Shelly Trigg | [shellytrigg.github.io/notebook](https://shellytrigg.github.io/no
 
 #### 2020
 
-* [Influence of ocean acidification on eastern (_Crassostrea virginica_) and Pacific oyster (_Crassostrea gigas_) DNA mthylation](https://doi.org/10.6084/m9.figshare.11868231.v1) Poster, Ocean Sciences Meeting 2020, San Diego, CA February 2020
+* [Influence of ocean acidification on eastern (_Crassostrea virginica_) and Pacific oyster (_Crassostrea gigas_) DNA methylation](https://doi.org/10.6084/m9.figshare.11868231.v1) Poster, Ocean Sciences Meeting 2020, San Diego, CA February 2020
 
 * [DNA methylation associations with growth rate in Olympia oyster populations](https://doi.org/10.6084/m9.figshare.11857854.v1) presentation, Aquaculture America 2020, Honolulu, HI, February 2020  
 
@@ -80,6 +80,8 @@ Shelly Trigg | [shellytrigg.github.io/notebook](https://shellytrigg.github.io/no
 ## Peer-Reviewed Publications</a>     
 
 see also <a href="#preprint">*preprints*</a>
+
+Shelly A. Trigg, Kaitlyn R. Mitchell, Rhonda Elliott Thompson, Benoit Eudeline, Brent Vadopalas, Emma B. Timmins-Schiffman & Steven B. Roberts. (**2020**) [Temporal proteomic profiling reveals insight into critical developmental processes and temperature-influenced physiological response differences in a bivalve mollusc](http://doi.org/10.1186/s12864-020-07127-3) BMC Genomics 21, 723 (2020). doi:10.1186/s12864-020-07127-3 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1186/s12864-020-07127-3" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
 Cristian Gallardo-Escárate; Valentina Valenzuela-Muñoz; Gustavo Núñez-Acuña; Diego Valenzuela-Miranda; Bárbara P. Benaventel; Constanza Sáez-Vera; Homero Urrutia; Beatriz Novoa; Antonio Figueras; Steven Roberts; Paulina Assmann; Marta Bravo (**2020**) [The wastewater microbiome: A novel insight for COVID-19 surveillance](http://doi.org/10.1016/j.scitotenv.2020.142867) Science of The Total Environment Page: 142867 doi:10.1016/j.scitotenv.2020.142867 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1016/j.scitotenv.2020.142867" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
