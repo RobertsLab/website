@@ -30,6 +30,8 @@ Shelly Trigg | [shellytrigg.github.io/notebook](https://shellytrigg.github.io/no
 
 #### 2020
 
+* [Oysters, Ocean Acidification, and -Omics](https://doi.org/10.6084/m9.figshare.13198262) Presentation, Friday Harbor Laboratories Summer Seminar Series, June 2020
+
 * [Influence of ocean acidification on eastern (_Crassostrea virginica_) and Pacific oyster (_Crassostrea gigas_) DNA methylation](https://doi.org/10.6084/m9.figshare.11868231.v1) Poster, Ocean Sciences Meeting 2020, San Diego, CA February 2020
 
 * [DNA methylation associations with growth rate in Olympia oyster populations](https://doi.org/10.6084/m9.figshare.11857854.v1) presentation, Aquaculture America 2020, Honolulu, HI, February 2020  
@@ -37,6 +39,8 @@ Shelly Trigg | [shellytrigg.github.io/notebook](https://shellytrigg.github.io/no
 * [Influence of ocean acidification on DNA methylation patterns in geoduck](https://github.com/shellytrigg/talk-pag2020) Presentation, The Plant and Animal Genome XXVII Conference (PAG), San Diego, CA, January 2020
 
 #### 2019
+
+* [Oysters, Ocean Acidification, and -Omics](https://doi.org/10.6084/m9.figshare.13198181) Presentation, Huxley Environmental Speaker Series at Western Washington University, December 2019
 
 * [Effects of Bitter Crab Disease on the gene expression of Alaska Tanner Crabs](https://figshare.com/articles/Effects_of_Bitter_Crab_Disease_on_the_gene_expression_of_Alaska_Tanner_Crabs/11120480) Presentation, SAFS Graduate Student Symposium, November 2019
 
