@@ -32,6 +32,8 @@ Shelly Trigg | [shellytrigg.github.io/notebook](https://shellytrigg.github.io/no
 
 * [Harnessing the power of single-cell RNA sequencing to control reproductive development in bivalves](https://d.pr/IC8n80) 74th Annual Pacific Coast Shellfish Growers Association Conference, Virtual October 2020
 
+* [Carryover effects of winter warming in the Olympia oyster](https://doi.org/10.6084/m9.figshare.13224911.v3). Presentation. 74th Annual Pacific Coast Shellfish Growers Association Conference, Virtual October 2020
+
 * [Oysters, Ocean Acidification, and -Omics](https://doi.org/10.6084/m9.figshare.13198262) Presentation, Friday Harbor Laboratories Summer Seminar Series, June 2020
 
 * [Influence of ocean acidification on eastern (_Crassostrea virginica_) and Pacific oyster (_Crassostrea gigas_) DNA methylation](https://doi.org/10.6084/m9.figshare.11868231.v1) Poster, Ocean Sciences Meeting 2020, San Diego, CA February 2020
