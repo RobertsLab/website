@@ -32,6 +32,8 @@ Shelly Trigg | [shellytrigg.github.io/notebook](https://shellytrigg.github.io/no
 
 * [Exploring the tolerance of Pacific geoduck to low pH through comparative physiology, genomics, and DNA methylation](https://github.com/shellytrigg/talk-SICB2020) Presentation. The Society for Integrative and Comparative Biology (SICB) 2021 Annual Meeting, Virtual January - February 2021
 
+* [A perspective on DNA methylation in bivalves](https://github.com/sr320/talk-sicb-2021) Presentation. The Society for Integrative and Comparative Biology (SICB) 2021 Annual Meeting, Virtual January - February 2021
+
 #### 2020
 
 * [Harnessing the power of single-cell RNA sequencing to control reproductive development in bivalves](https://d.pr/IC8n80) 74th Annual Pacific Coast Shellfish Growers Association Conference, Virtual October 2020
