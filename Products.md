@@ -95,6 +95,8 @@ Shelly Trigg | [shellytrigg.github.io/notebook](https://shellytrigg.github.io/no
 
 see also <a href="#preprint">*preprints*</a>
 
+Cristian Gallardo-Escárate, Valentina Valenzuela-Muñoz, Gustavo Nuñez-Acuña, Diego Valenzuela-Miranda, Ana Teresa Gonçalves, Hugo Escobar-Sepulveda, Ivan Liachko, Bradley Nelson, Steven Roberts & Wesley Warren. (**2021**) [Chromosome-scale genome assembly of the sea louse Caligus rogercresseyi by SMRT sequencing and Hi-C analysis](https://doi.org/10.1038/s41597-021-00842-w) Sci Data 8, 60 doi:10.1038/s41597-021-00842-w <span data-badge-popover="right" data-badge-type="2" data-doi="10.1038/s41597-021-00842-w" data-hide-no-mentions="true" class="altmetric-embed"></span>
+
 Shelly A. Trigg, Kaitlyn R. Mitchell, Rhonda Elliott Thompson, Benoit Eudeline, Brent Vadopalas, Emma B. Timmins-Schiffman & Steven B. Roberts. (**2020**) [Temporal proteomic profiling reveals insight into critical developmental processes and temperature-influenced physiological response differences in a bivalve mollusc](http://doi.org/10.1186/s12864-020-07127-3) BMC Genomics 21, 723 doi:10.1186/s12864-020-07127-3 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1186/s12864-020-07127-3" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
 Yong-Kian Lim, Khan Cheung, Xin Dang, Steven B. Roberts, Xiaotong Wang, Vengatesen Thiyagarajan (**2020**) [DNA methylation changes in response to ocean acidification at the time of larval metamorphosis in the edible oyster, _Crassostrea hongkongensis_](http://www.sciencedirect.com/science/article/pii/S0141113620309818) Marine Environmental Research,
