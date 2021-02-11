@@ -6,6 +6,8 @@
 
 see also <a href="#preprint">*preprints*</a> and [_Google Scholar_](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=aAoYWVUAAAAJ&view_op=list_works)
 
+Cristian Gallardo-Escárate, Valentina Valenzuela-Muñoz, Gustavo Nuñez-Acuña, Diego Valenzuela-Miranda, Ana Teresa Gonçalves, Hugo Escobar-Sepulveda, Ivan Liachko, Bradley Nelson, Steven Roberts & Wesley Warren. (**2021**) [Chromosome-scale genome assembly of the sea louse Caligus rogercresseyi by SMRT sequencing and Hi-C analysis](https://doi.org/10.1038/s41597-021-00842-w) Sci Data 8, 60 doi:10.1038/s41597-021-00842-w <span data-badge-popover="right" data-badge-type="2" data-doi="10.1038/s41597-021-00842-w" data-hide-no-mentions="true" class="altmetric-embed"></span>
+
 Shelly A. Trigg, Kaitlyn R. Mitchell, Rhonda Elliott Thompson, Benoit Eudeline, Brent Vadopalas, Emma B. Timmins-Schiffman & Steven B. Roberts. (**2020**) [Temporal proteomic profiling reveals insight into critical developmental processes and temperature-influenced physiological response differences in a bivalve mollusc](http://doi.org/10.1186/s12864-020-07127-3) BMC Genomics 21, 723 doi:10.1186/s12864-020-07127-3 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1186/s12864-020-07127-3" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
 <a href="http://doi.org/10.1186/s12864-020-07127-3"><img class="wp-image-2505 alignleft" title="oyster" src="http://gannet.fish.washington.edu/seashell/snaps/Temporal_proteomic_profiling_reveals_insight_into_critical_developmental_processes_and_temperature-influenced_physiological_res_2020-11-04_13-31-48.png" alt="graph" width="220" height="192" /></a>
