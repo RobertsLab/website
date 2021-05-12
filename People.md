@@ -124,7 +124,7 @@ Hollie Putnam
 
 ### _Graduate Students_
 
-[Grace Crandall](grace-ac.github.io)
+[Grace Crandall](https://grace-ac.github.io)
 
 Jay Dimond
 
