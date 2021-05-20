@@ -29,6 +29,8 @@ Shelly Trigg | [shellytrigg.github.io/notebook](https://shellytrigg.github.io/no
 ## Recent Presentations</a>
 
 #### 2021
+* [Diversity in animal response to environmental change](https://github.com/shellytrigg/talk-Coast2Coast2021) Presentation. Academic Data Science Alliance (ADSA) 2021 Data Science Coast to Coast Seminar Series, Virtual May 19, 2021 3pm.
+
 
 * [Exploring the tolerance of Pacific geoduck to low pH through comparative physiology, genomics, and DNA methylation](https://github.com/shellytrigg/talk-SICB2020) Presentation. The Society for Integrative and Comparative Biology (SICB) 2021 Annual Meeting, Virtual January - February 2021
 
