@@ -97,6 +97,8 @@ Shelly Trigg | [shellytrigg.github.io/notebook](https://shellytrigg.github.io/no
 
 see also <a href="#preprint">*preprints*</a>
 
+Laura H. Spencer, Erin Horkan, Ryan Crim, Steven B. Roberts (**2021**) [Latent effects of winter warming on Olympia oyster reproduction and larval viability](https://doi.org/10.1016/j.jembe.2021.151604) Journal of Experimental Marine Biology and Ecology. doi:10.1016/j.jembe.2021.151604 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1016/j.jembe.2021.151604" data-hide-no-mentions="true" class="altmetric-embed"></span>
+
 Chandra Rajan, K., Yuan, M., Yu, Z., Roberts, S.B. and Thiyagarajan, V. (**2021**) [Oyster biomineralisation under ocean acidification: from genes to shell](https://doi.org/10.1111/gcb.15675) Global Change Biology. doi:10.1111/gcb.15675 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1111/gcb.15675" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
 Emma Timmins-Schiffman, Samuel J. White, Rhonda Elliott Thompson, Brent Vadopalas, Benoit Eudeline, Brook L. Nunn & Steven B. Roberts. (**2021**) [Coupled microbiome analyses highlights relative functional roles of bacteria in a bivalve hatchery](https://doi.org/10.1186/s40793-021-00376-z) Environmental Microbiome 16, 7 doi:10.1186/s40793-021-00376-z <span data-badge-popover="right" data-badge-type="2" data-doi="10.1186/s40793-021-00376-z" data-hide-no-mentions="true" class="altmetric-embed"></span>
