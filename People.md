@@ -126,7 +126,7 @@ Giles Goetz
 
 Hana Ra
 
-Delenay Lawson
+Delaney Lawson
 
 ---
 
