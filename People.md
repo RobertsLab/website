@@ -119,14 +119,11 @@ Crystal Simchick
 
 Giles Goetz
 
+Delaney Lawson
 
 ---
 
 # Undergraduate Students
-
-Hana Ra
-
-Delaney Lawson
 
 ---
 
@@ -167,6 +164,8 @@ Dave Metzger
 
 
 ### _Undergraduates_
+
+Hana Ra (2020)
 
 Ronit (pre-college) (2019)
 
