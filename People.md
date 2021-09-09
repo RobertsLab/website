@@ -70,6 +70,15 @@ Funding:
 -School of Aquatic and Fishery Sciences Fellowship (September 2020-Present)
 
 
+---
+### Olivia Cattau
+[Lab notebook](https://ocattau.github.io/) | [CV](https://github.com/ocattau/ocattau.github.io/blob/master/cv/Cattau_CV_July_2021.pdf) | ocattau@uw.edu | oliviacattau@gmail.com
+
+<img src="https://pacifichybreed.com/wp-content/uploads/2019/11/olivia-1-300x300.jpg " width="130" height="150" border = "5" ALIGN = "left" border="10" style="border-color: white"/>
+
+As a Chicago native and University of Chicago alumna, I spent close to zero time on the ocean until I turned 20 and was awarded a Metcalf Internship to study cephalopods at the Marine Biological Laboratory in Woods Hole, MA. After graduating, I moved out to Washington State to work with Puget Sound Restoration Fund and Pacific Hybreed doing shellfish, echinoderm and kelp aquaculture/research. In 2021, I joined the Roberts' Lab at UW [School of Aquatic and Fishery Sciences](https://fish.uw.edu/) to work on various conservation genetics projects on Geoduck (*P. generosa*) and Pacific Oysters (*C. gigas*). Currently, I am working on controling the gonadal development of Geoduck by knockdown of candidate genes involved in primordial germ cell (PGC) specification. This will be done using morpholinos or CRISPER. In addition, I am working with Matt George (mngeorge@uw.edu) on studying environment-physiology interactions within marine organisms, with a particular emphasis on the molecular mechanisms that make aquaculture species within Washington State resilient to environmental change. Feel free to email me with any questions you may have! 
+
+
 
 ---
 # Postdoctoral Research Associates
