@@ -122,10 +122,6 @@ Sam White
 
 Brent Vadopalas
 
-Kaitlyn Mitchell
-
-Crystal Simchick
-
 Giles Goetz
 
 Delaney Lawson
@@ -142,6 +138,12 @@ Delaney Lawson
 ### _Postdoctoral Research Associates_
 
 Hollie Putnam
+
+### _Research Scientists_
+
+Kaitlyn Mitchell
+
+Crystal Simchick
 
 ### _Graduate Students_
 
