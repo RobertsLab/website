@@ -126,9 +126,9 @@ Hollie Putnam
 
 [Grace Crandall](https://grace-ac.github.io)
 
-Jay Dimond
+[Jay Dimond](https://wp.wwu.edu/jldimond/)
 
-Megan Hintz
+[Megan Hintz](https://www.lummi-nsn.gov/Website.php?PageID=846)
 
 Rhonda Elliot
 
