@@ -9,17 +9,19 @@ Our lab strives to make all research products readily available. This includes p
 <a id="data">
 ## Lab Notebooks</a>
 
-
-
-Person | Notebook | GitHub
---- | --- | ---
-Steven Roberts | [sr320.github.io](https://sr320.github.io/) |   [![GitHub followers](https://img.shields.io/github/followers/sr320.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/sr320)
-Sam White | [robertslab.github.io](https://robertslab.github.io/sams-notebook/) |   [![GitHub followers](https://img.shields.io/github/followers/kubu4.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/kubu4)
+Person | Notebook  | Commitment
+--- | --- | ----
+Steven Roberts | [sr320.github.io](https://sr320.github.io/) |  ![GitHub last commit](https://img.shields.io/github/last-commit/sr320/sr320.github.io)
+Sam White | [robertslab.github.io](https://robertslab.github.io/sams-notebook/) |  ![GitHub last commit](https://img.shields.io/github/last-commit/RobertsLab/sams-notebook)
+Matt George | [mattgeorgephd.github.io](https://mattgeorgephd.github.io/notebook/) | ![GitHub last commit](https://img.shields.io/github/last-commit/mattgeorgephd/mattgeorgephd.github.io)
+Aidan Coyle | [afcoyle.github.io](https://afcoyle.github.io) |   ![GitHub last commit](https://img.shields.io/github/last-commit/afcoyle/afcoyle.github.io)
+Olivia Cattau | [ocattau.github.io](https://ocattau.github.io)  | ![GitHub last commit](https://img.shields.io/github/last-commit/ocattau/ocattau.github.io)
+Delaney Lawson| [drlawson.github.io](https://drlawson.github.io)  | ![GitHub last commit](https://img.shields.io/github/last-commit/drlawson/drlawson.github.io)
+Ariana Huffmyer | [ahuffmyer.github.io](https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/) | ![GitHub last commit](https://img.shields.io/github/last-commit/AHuffmyer/ASH_Putnam_Lab_Notebook)
 Laura Spencer | [laurahspencer.github.io](https://laurahspencer.github.io/LabNotebook/)  | [![GitHub followers](https://img.shields.io/github/followers/laurahspencer.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/laurahspencer)
 Yaamini Venkataraman | [yaaminiv.github.io](https://yaaminiv.github.io/) | [![GitHub followers](https://img.shields.io/github/followers/yaaminiv.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/yaaminiv)
 Grace Crandall | [grace-ac.github.io](https://grace-ac.github.io/) |  [![GitHub followers](https://img.shields.io/github/followers/grace-ac.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/grace-ac)
 Shelly Trigg | [shellytrigg.github.io/notebook](https://shellytrigg.github.io/notebook/) |   [![GitHub followers](https://img.shields.io/github/followers/shellytrigg.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/shellytrigg)
-
 
 
 
@@ -96,6 +98,8 @@ Shelly Trigg | [shellytrigg.github.io/notebook](https://shellytrigg.github.io/no
 ## Peer-Reviewed Publications</a>     
 
 see also <a href="#preprint">*preprints*</a>
+
+Shelly A. Trigg, Yaamini R. Venkataraman, Mackenzie R. Gavery, Steven B. Roberts, Debashish Bhattacharya, Alan Downey-Wall, Jose M. Eirin-Lopez, Kevin M. Johnson, Katie E. Lotterhos, Jonathan B. Puritz and Hollie M. Putnam (**2021**) [Invertebrate methylomes provide insight into mechanisms of environmental tolerance and reveal methodological biases](https://doi.org/10.1111/1755-0998.13542) Molecular Ecology Resources. doi:10.1111/1755-0998.13542 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1111/1755-0998.13542" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
 Laura H. Spencer, Erin Horkan, Ryan Crim, Steven B. Roberts (**2021**) [Latent effects of winter warming on Olympia oyster reproduction and larval viability](https://doi.org/10.1016/j.jembe.2021.151604) Journal of Experimental Marine Biology and Ecology. doi:10.1016/j.jembe.2021.151604 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1016/j.jembe.2021.151604" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
