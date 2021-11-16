@@ -79,6 +79,15 @@ Funding:
 As a Chicago native and University of Chicago alumna, I spent close to zero time on the ocean until I turned 20 and was awarded a Metcalf Internship to study cephalopods at the Marine Biological Laboratory in Woods Hole, MA. After graduating, I moved out to Washington State to work with Puget Sound Restoration Fund and Pacific Hybreed doing shellfish, echinoderm and kelp aquaculture/research. In 2021, I joined the Roberts' Lab at UW [School of Aquatic and Fishery Sciences](https://fish.uw.edu/) to work on various conservation genetics projects on Geoduck (*P. generosa*) and Pacific Oysters (*C. gigas*). Currently, I am working on controling the gonadal development of Geoduck by knockdown of candidate genes involved in primordial germ cell (PGC) specification. This will be done using morpholinos or CRISPER. In addition, I am working with Matt George (mngeorge@uw.edu) on studying environment-physiology interactions within marine organisms, with a particular emphasis on the molecular mechanisms that make aquaculture species within Washington State resilient to environmental change. Feel free to email me with any questions you may have! 
 
 
+---
+### Zach Bengtsson
+[Lab notebook](https://zbengt.github.io/) | zbengt@uw.edu
+
+<img src="https://avatars.githubusercontent.com/u/91245841?v=4" ALIGN = "left" border="10" style="border-color: white"/>
+
+I grew up in the beautiful, landlocked city of Colorado Springs, CO, but I have always been fascinated by the ocean and marine life. In my undergraduate studies at Boston University, I developed a passion for marine invertebrates and studied coral epibionts living on mangrove prop roots in Belize. After graduating in 2015, I developed my skills in science and research through positions in medical molecular biology, seasonal environmental DNA work at The Nature Conservancy, and various environmental remote sensing roles in the NASA Earth Applied Sciences Program. I joined the Roberts Lab in Fall 2021, where I work on the [E5 Coral Project](https://e5coral.org/). My research focuses on assessing the response of corals to changing environmental conditions in Moorea using epigenetic techniques. I am also interested in incorporating remotely-sensed datasets as model inputs to better understand the relationship between environmental stressors and organismal response. Please feel free to get in touch with me via email or through my [LinkedIn](https://www.linkedin.com/in/zachary-bengtsson/)!
+
+
 
 ---
 # Postdoctoral Research Associates
