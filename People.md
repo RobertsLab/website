@@ -83,7 +83,7 @@ As a Chicago native and University of Chicago alumna, I spent close to zero time
 ### Zach Bengtsson
 [Lab notebook](https://zbengt.github.io/) | zbengt@uw.edu
 
-<img src="https://avatars.githubusercontent.com/u/91245841?v=4" ALIGN = "left" border="10" style="border-color: white"/>
+<img src="https://avatars.githubusercontent.com/u/91245841?v=4" width="152" height="162" ALIGN = "left" border="10" style="border-color: white"/>
 
 I grew up in the beautiful, landlocked city of Colorado Springs, CO, but I have always been fascinated by the ocean and marine life. In my undergraduate studies at Boston University, I developed a passion for marine invertebrates and studied coral epibionts living on mangrove prop roots in Belize. After graduating in 2015, I developed my skills in science and research through positions in medical molecular biology, seasonal environmental DNA work at The Nature Conservancy, and various environmental remote sensing roles in the NASA Earth Applied Sciences Program. I joined the Roberts Lab in Fall 2021, where I work on the [E5 Coral Project](https://e5coral.org/). My research focuses on assessing the response of corals to changing environmental conditions in Moorea using epigenetic techniques. I am also interested in incorporating remotely-sensed datasets as model inputs to better understand the relationship between environmental stressors and organismal response. Please feel free to get in touch with me via email or through my [LinkedIn](https://www.linkedin.com/in/zachary-bengtsson/)!
 
