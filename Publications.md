@@ -5,7 +5,7 @@
 
 see also <a href="#preprint">*preprints*</a> and [_Google Scholar_](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=aAoYWVUAAAAJ&view_op=list_works)
 
-Shelly A. Trigg, Yaamini R. Venkataraman, Mackenzie R. Gavery, Steven B. Roberts, Debashish Bhattacharya, Alan Downey-Wall, Jose M. Eirin-Lopez, Kevin M. Johnson, Katie E. Lotterhos, Jonathan B. Puritz and Hollie M. Putnam (**2021**) [Invertebrate methylomes provide insight into mechanisms of environmental tolerance and reveal methodological biases](https://doi.org/10.1111/1755-0998.13542) Molecular Ecology Resources. doi:10.1111/1755-0998.13542 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1111/1755-0998.13542" data-hide-no-mentions="true" class="altmetric-embed"></span>
+Shelly A. Trigg, Yaamini R. Venkataraman, Mackenzie R. Gavery, Steven B. Roberts, Debashish Bhattacharya, Alan Downey-Wall, Jose M. Eirin-Lopez, Kevin M. Johnson, Katie E. Lotterhos, Jonathan B. Puritz and Hollie M. Putnam (**2021**) [Invertebrate methylomes provide insight into mechanisms of environmental tolerance and reveal methodological biases](https://doi.org/10.1111/1755-0998.13542) Molecular Ecology Resources. doi:10.1111/1755-0998.13542 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1111/1755-0998.13542" data-hide-no-mentions="true" class="altmetric-embed"></span> [_pdf_](https://d.pr/f/LqAVdC)
 
 Laura H. Spencer, Erin Horkan, Ryan Crim, Steven B. Roberts (**2021**) [Latent effects of winter warming on Olympia oyster reproduction and larval viability](https://doi.org/10.1016/j.jembe.2021.151604) Journal of Experimental Marine Biology and Ecology. doi:10.1016/j.jembe.2021.151604 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1016/j.jembe.2021.151604" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
@@ -13,7 +13,7 @@ James L Dimond, Nhung Nguyen, Steven B Roberts (**2021**) [DNA methylation profi
 
 Samuel J. Gurr, Shelly A. Trigg, Brent Vadopalas, Steven B. Roberts, Hollie M. Putnam (**2021**) [Repeat exposure to hypercapnic seawater modifies growth and oxidative status in a tolerant burrowing clam](https://doi.org/10.1242/jeb.233932) J Exp Biol 1 July 2021; 224 (13) doi:10.1242/jeb.233932 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1242/jeb.233932" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
-Arredondo-Espinoza Roberto, Ibarra Ana M., Roberts B. Steven, Sicard-Gonzalez Maria Teresa, Escobedo-Fregoso Cristina (**2021**) [Differentially methylated gene regions between resistant and susceptible heat-phenotypes of the Pacific oyster _Crassostrea gigas_](https://doi.org/10.1016/j.aquaculture.2021.736923) Aquaculture Vol 543. doi:10.1016/j.aquaculture.2021.736923 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1016/j.aquaculture.2021.73692" data-hide-no-mentions="true" class="altmetric-embed"></span> 
+Arredondo-Espinoza Roberto, Ibarra Ana M., Roberts B. Steven, Sicard-Gonzalez Maria Teresa, Escobedo-Fregoso Cristina (**2021**) [Differentially methylated gene regions between resistant and susceptible heat-phenotypes of the Pacific oyster _Crassostrea gigas_](https://doi.org/10.1016/j.aquaculture.2021.736923) Aquaculture Vol 543. doi:10.1016/j.aquaculture.2021.736923 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1016/j.aquaculture.2021.73692" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
 Chandra Rajan, K., Yuan, M., Yu, Z., Roberts, S.B. and Thiyagarajan, V. (**2021**) [Oyster biomineralisation under ocean acidification: from genes to shell](https://doi.org/10.1111/gcb.15675) Global Change Biology. doi:10.1111/gcb.15675 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1111/gcb.15675" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
@@ -319,9 +319,8 @@ Thompson R and Roberts SB (**preprint**) Influence of carbon dioxide-induced aci
 <a id="theses">
 ## Theses</a>
 
-Impacts of temperature on the molecular response of shellfish. Grace Crandall. 2020 [http://hdl.handle.net/1773/46010](http://hdl.handle.net/1773/46010)
-
 Patterns, dynamics, and potential roles of DNA methylation in reef corals and their allies. James Dimond. 2019 [http://hdl.handle.net/1773/44815](http://hdl.handle.net/1773/44815)
+
 
 Response of Olympia oysters (_Ostrea lurida_) to changing environmental conditions.  Jake Heare. 2015 [http://hdl.handle.net/1773/35206](http://hdl.handle.net/1773/35206)
 
