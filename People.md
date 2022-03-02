@@ -13,49 +13,6 @@ Associate Director of the School of Aquatic and Fishery Sciences at the Universi
 
 # Graduate Students
 
-
-### Laura Spencer
-
-<img src="https://github.com/laurahspencer/LabNotebook/blob/master/images/IMG_4758.jpg?raw=true" width="180" height="162" ALIGN = "left" border="10" style="border-color: white"/>
-
-[Lab notebook](https://laurahspencer.github.io/LabNotebook/) | [CV](https://laurahspencer.github.io/LabNotebook/about/) |  lhs3@uw.edu
-
-As a Univeristy of Washington alumna with a B.S. in Chemical Oceanography, I am very pleased to return to the UW to pursue a Masters at SAFS as an NSF Graduate Fellow. In the years between I began my career at SustainableWorks, an ARRA-funded energy efficiency program in Seattle working to reduce residential energy consumption, then with the Seattle-based consulting firm Ross Strategic on a spectrum of environmental projects such as flood mitigation, Puget Sound salmon recovery, air quality on tribal lands, the EPA Exchange Network, etc. Most recently I joined the Puget Sound Restoration Fund, a non-profit using boots-on-the-ground tactics to restore the native Olympia oyster & Pinto abalone in Puget Sound, where I gained valuable experience in hatchery techniques and a curiosity in shellfish restoration and research. Additionally, dual interests in scientific education/outreach and Ocean Acifidification led to volunteering with the Seattle Aquarium, the Ocean Inquiry Project, WA Sea Grant, and Earth Echo. In joining the Roberts Lab I seek to perform applied research to provide useful knowledge for shellfish aquaculture and restoration communities, with the express interest of maintaining affordable, delicious shellfish on our tables and shorelines.   
-
-Funding:
-
-- [NSF Graduate Research Fellowships Program](nsfgrfp.org): 2017, 2018, & 2020
-- UW TA-ships
-  -  Fall 2018: BIOL 250, Marine Biology with Dr. Jose Guzman  
-  - Winter 2018,  Winter 2019: FSH 324, Aquatic Animal Physiology And Reproduction with Dr. Graham Young.
-  - Spring 2019: FSH 310, Shellfish Biology, with Dr. Jackie Padilla-Gamiño.
-- Hall Conservation Genetics Research Award
-
-
----
-
-
-### Yaamini Venkataraman
-[Lab notebook](https://yaaminiv.github.io) | [CV](https://yaaminiv.github.io/about/) | Twitter: @YaaminiV | [ORCID iD](https://orcid.org/0000-0002-0364-1829) | yaaminiv@uw.edu
-
-<img src="https://avatars1.githubusercontent.com/u/22335838?v=3&u=eb68e8abc8514869e99bdf6a2638066aedaebef4&s=140" ALIGN = "left" border="10" style="border-color: white"/>
-
-As a California Bay Area native, I grew up going to the Monterey Bay Aquarium. I was always floored by the intricacies of the organisms themselves, but also how complex their environments were. These experiences pushed me to get my B.S. in General Biology and B.A. in Environmental Policy at the University of California, San Diego (UCSD). I studied several different species-environment interactions, including copepods and copper toxicity at the Wrigley Institute for Environmental Studies, marsh plants species and increased carbon inputs at the Smithsonian Institute for Environmental Studies and limpet-surfgrass interactions under acidified conditions at UCSD. At the Roberts Lab, I study how climate change is going to affect the organisms in our current and future oceans. My current projects involve examining ocean acidification’s effects on oysters using “-omic” techniques. Specifically, I study how exposure to ocean acidification in one generation affects the epigenome, and whether or not transgenerational epigenetic inheritance contributes to phenotypic plasticity in Pacific and Eastern oysters.
-
-I’m also interested in projects at the intersection of science, policy and communication! I'm on the baord of [Engage at UW](https://www.engage-science.space), and previously served on the Graduate and Professional Student Senate Science and Policy Steering Committee. I am a Social Media Intern at the NOAA Office of National Marine Sanctuaries, where I spearheaded a profile series featuring graduate students in the Dr. Nancy Foster Scholarship Program. I'm the President of the School of Aquatic and Fishery Science's graduate student organization, [FINS](https://safsfins.wordpress.com) and do outreach with Students Explore Aquatic Sciences.
-
-If you want to know more about my path to graduate school, what it's like to be a WOC in environmental sciences, my research, my school experience, or my extracurriculars, please reach out. Looking forward to hearing from you!
-
-Funding:
-
-- [NSF Graduate Research Fellowships Program](nsfgrfp.org) (September 2018-present)
-- [Hall Conservation Genetics Research Award](https://environment.uw.edu/students/student-resources/scholarships-funding/graduate-scholarships-funding/hall-conservation-genetics-research-award/) (March 2017)
-- School of Aquatic and Fishery Sciences Fellowship (September 2016-September 2017)
-
-
----
-
-
 ### Aidan Coyle
 [Lab notebook](https://afcoyle.github.io/) | afcoyle@uw.edu
 
@@ -92,13 +49,6 @@ I grew up in the beautiful, landlocked city of Colorado Springs, CO, but I have 
 
 ---
 # Postdoctoral Research Associates
-
-### Shelly Trigg
-[Lab notebook](https://shellytrigg.github.io/notebook) | [website](https://shellytrigg.github.io) | [CV](https://github.com/shellytrigg/shellytrigg.github.io/raw/master/docs/ShellyTriggJul2020CV.pdf) | strigg@uw.edu | [ORCID iD](https://orcid.org/0000-0001-6904-4149)
-
-<img src="https://github.com/shellytrigg/shellytrigg.github.io/blob/master/images/Shelly-White-Headshot-web-copy-2.jpeg?raw=true" width="140" height="219" border = "5" ALIGN = "left" border="10" style="border-color: white"/>
-
-I joined the Roberts lab in September 2018 after completing my Ph.D. in Biolgoy at UC San Diego. I'm interested in how organisms respond to environmental change and understanding what species will be tolerant or intolerant to particular environmental conditions in the face of climate change. I study a variety of animals (from shellfish to sea lice to salmon) from a physiological and molecular systems perspective by conducting experiments that simulate various ocean conditions and use omics technologies (like epigenomics, proteomics, and metabolomics) to measure animal response. To process these diverse datasets, I develop and implement bioinformatics pipelines for data normalization, statistical analyses, and biological pathway analyses. I pair the 'omics' data with health observations to understand how exactly animals compensate for changes in the environment. I use an [open access online lab notebook](https://shellytrigg.github.io/notebook) and [GitHub](https://github.com/shellytrigg) to publicly share my analyses and support reproducibility. My research addresses the overarching goal of identifying common responses that could be predictive of species tolerance for environmental change. I aim for my research to identify environmental factors that lead to stronger animal responses, and help prioritize the protection of particular species and environmental mitigation strategies. I am also passionate about contributing to education around how climate change may impact certain animals. To achieve my research and education outreach aims I collaborate with commercial, tribal, and governmental fisheries organizations, and actively participate in outreach media development. Outside of research, I enjoy all outdoor activities from co-ed team sports to hiking, backpacking, camping, fly-fishing, climbing, and snowboarding.
 
 ### Matt George
 [Lab notebook](https://mattgeorgephd.github.io/notebook) | [website](https://mattgeorgephd.github.io) | [CV](https://mattgeorgephd.github.io/CV/Matthew_N_George_CV_2020.pdf) | mngeorge@uw.edu | [ORCID iD](https://orcid.org/0000-0003-1264-8667)
@@ -147,6 +97,8 @@ Delaney Lawson
 
 ### _Postdoctoral Research Associates_
 
+[Shelly Trigg](https://shellytrigg.github.io)
+
 Hollie Putnam
 
 ### _Research Scientists_
@@ -156,6 +108,10 @@ Kaitlyn Mitchell
 Crystal Simchick
 
 ### _Graduate Students_
+
+[Yaamini Venkataraman](https://yaaminiv.github.io)
+
+[Laura Spencer](https://laurahspencer.github.io/LabNotebook/)
 
 [Grace Crandall](https://grace-ac.github.io)
 
@@ -185,6 +141,8 @@ Dave Metzger
 
 
 ### _Undergraduates_
+
+Delaney Lawson
 
 Hana Ra (2020)
 
