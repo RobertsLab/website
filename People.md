@@ -46,6 +46,14 @@ As a Chicago native and University of Chicago alumna, I spent close to zero time
 I grew up in the beautiful, landlocked city of Colorado Springs, CO, but I have always been fascinated by the ocean and marine life. In my undergraduate studies at Boston University, I developed a passion for marine invertebrates and studied coral epibionts living on mangrove prop roots in Belize. After graduating in 2015, I developed my skills in science and research through positions in medical molecular biology, seasonal environmental DNA work at The Nature Conservancy, and various environmental remote sensing roles in the NASA Earth Applied Sciences Program. I joined the Roberts Lab in Fall 2021, where I work on the [E5 Coral Project](https://e5coral.org/). My research focuses on assessing the response of corals to changing environmental conditions in Moorea using epigenetic techniques. I am also interested in incorporating remotely-sensed datasets as model inputs to better understand the relationship between environmental stressors and organismal response. Please feel free to get in touch with me via email or through my [LinkedIn](https://www.linkedin.com/in/zachary-bengtsson/)!
 
 
+---
+### Chris Mantegna
+[Lab notebook](https://chrismantegna.github.io/) | cnmntgna@uw.edu
+
+<img src="https://avatars.githubusercontent.com/u/81385272?s=400&u=db9e68ce341c74ff870634cc398654e82d7aea73&v=4" width="140" height="150" ALIGN = "left" border="10" style="border-color: white"/>
+
+Deciding to chase my love of Orcas, coffee, and grunge to the Pacific Northwest has yielded this Baltimore, MD transplant an opportunity to become a double University of Washington alumna. I graduated with my B.S. in Marine Biology in 2021 and am continuing my academic pursuits as a SAFS and NSF Graduate Fellow. Moving into the marine science space has been a dream fulfilled. I am currently using -omics techniques to evaluate the relationship between environmental influences, ecotoxins, and organism physiology in the Pacific Northwest using bivalves as the target organisms. Moving through my graduate work I'd like to expand into warmer waters and study those relationships with Syngnathids as the target organisms. When not working in the lab I happily pepper my daughter with dad jokes, build community as the Mentorship Coordinator for [BWEEMS](https://www.bweems.org/), create content and programming as an active member of [BIMS](https://www.blackinmarinescience.org/), and spend my free time moonlighting as a wannabe Chihuly in beginners glass blowing classes.
+
 
 ---
 # Postdoctoral Research Associates
