@@ -99,6 +99,9 @@ Shelly Trigg | [shellytrigg.github.io/notebook](https://shellytrigg.github.io/no
 
 see also <a href="#preprint">*preprints*</a>
 
+Characterization of the Gene Repertoire and Environmentally Driven Expression Patterns in Tanner Crab (Chionoecetes bairdi)
+Grace Crandall, Pamela C. Jensen, Samuel J. White, Steven Roberts (**2022**) [Characterization of the Gene Repertoire and Environmentally Driven Expression Patterns in Tanner Crab (_Chionoecetes bairdi_)](https://doi.org/10.1007/s10126-022-10100-8) Marine Biotechnology. doi:110.1007/s10126-022-10100-8 <span data-badge-popover="right" data-badge-type="2" data-doi="110.1007/s10126-022-10100-8" data-hide-no-mentions="true" class="altmetric-embed"></span>
+
 Shelly A. Trigg, Yaamini R. Venkataraman, Mackenzie R. Gavery, Steven B. Roberts, Debashish Bhattacharya, Alan Downey-Wall, Jose M. Eirin-Lopez, Kevin M. Johnson, Katie E. Lotterhos, Jonathan B. Puritz and Hollie M. Putnam (**2021**) [Invertebrate methylomes provide insight into mechanisms of environmental tolerance and reveal methodological biases](https://doi.org/10.1111/1755-0998.13542) Molecular Ecology Resources. doi:10.1111/1755-0998.13542 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1111/1755-0998.13542" data-hide-no-mentions="true" class="altmetric-embed"></span> [_pdf_](https://d.pr/f/LqAVdC)
 
 Laura H. Spencer, Erin Horkan, Ryan Crim, Steven B. Roberts (**2021**) [Latent effects of winter warming on Olympia oyster reproduction and larval viability](https://doi.org/10.1016/j.jembe.2021.151604) Journal of Experimental Marine Biology and Ecology. doi:10.1016/j.jembe.2021.151604 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1016/j.jembe.2021.151604" data-hide-no-mentions="true" class="altmetric-embed"></span>
