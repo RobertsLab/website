@@ -14,18 +14,11 @@ Associate Director of the School of Aquatic and Fishery Sciences at the Universi
 # Graduate Students
 
 ### Aidan Coyle
-[Lab notebook](https://afcoyle.github.io/) | afcoyle@uw.edu
+[Lab notebook](https://afcoyle.github.io/) | [CV](https://afcoyle.github.io/cv/Coyle_CV_Sept_2021.pdf) | [Github](https://github.com/afcoyle) | afcoyle@uw.edu
 
 <img src="https://raw.githubusercontent.com/afcoyle/afcoyle-misc/master/download%20(3).png" width="152" height="162" ALIGN = "left" border="10" style="border-color: white"/>
 
-Growing up in coastal Alaska, I spent most of my youth being poked by sea urchins and stung by jellyfish. Undeterred, I dove into marine research at Bowdoin College, and investigated the invasive European green crab and uncovered a linkage between cold tolerance and mitochondrial genotype. After graduating, I joined the Alaska Department of Fish and Game, where I investigated snow and Tanner crab fecundity and movement, surveyed the St. Matthew Island blue king crab population, and gathered data on Kodiak-area fisheries. I also spent a summer at a remote salmon weir, where I monitored the sockeye run and made incredible quantities of jam. I then joined the Washington Department of Fish and Wildlife and researched forage fish spawning and development. While at the Roberts lab, I plan to investigate how Bitter Crab Syndrome impacts Tanner crabs in southeast Alaska.
-
-If you'd like to hear about my research, adjusting to grad school, or anything else, feel free to email me!
-
-Funding:
-
--School of Aquatic and Fishery Sciences Fellowship (September 2020-Present)
-
+Growing up in coastal Alaska, I spent most of my youth being poked by sea urchins and stung by jellyfish. Undeterred, I dove into marine research at Bowdoin College, where I found a linkage between cold tolerance and mitochondrial genotype within the invasive European green crab. I then joined the Alaska Department of Fish and Game, where I worked on Bering Sea crab surveys, Tanner crab fecundity and movement studies, and fishery monitoring projects. After moving down to Seattle, I joined the Washington Department of Fish and Wildlife, where I researched forage fish spawning and development. At the Roberts lab, I joined my interests in disease and crabs by studying gene expression in southeast Alaskan Tanner crabs and in _Hematodinium_, the parasitic dinoflagellate that causes Bitter Crab Syndrome. In my free time, I love long-distance cycling and making candy. If you'd like to chat about anything at all (particularly if it happens to be crab-related), feel free to email me!
 
 ---
 ### Olivia Cattau
