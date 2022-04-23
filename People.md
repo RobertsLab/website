@@ -47,6 +47,14 @@ I grew up in the beautiful, landlocked city of Colorado Springs, CO, but I have 
 
 Deciding to chase my love of Orcas, coffee, and grunge to the Pacific Northwest has yielded this Baltimore, MD transplant an opportunity to become a double University of Washington alumna. I graduated with my B.S. in Marine Biology in 2021 and am continuing my academic pursuits as a SAFS and NSF Graduate Fellow. Moving into the marine science space has been a dream fulfilled. I am currently using -omics techniques to evaluate the relationship between environmental influences, ecotoxins, and organism physiology in the Pacific Northwest using bivalves as the target organisms. Moving through my graduate work I'd like to expand into warmer waters and study those relationships with Syngnathids as the target organisms. When not working in the lab I happily pepper my daughter with dad jokes, build community as the Mentorship Coordinator for [BWEEMS](https://www.bweems.org/), create content and programming as an active member of [BIMS](https://www.blackinmarinescience.org/), and spend my free time moonlighting as a wannabe Chihuly in beginners glass blowing classes.
 
+---
+### Shanelle Haughton
+[Lab notebook]() |  | [LinkedIn](www.linkedin.com/in/shanelle-haughton-401b31225)
+
+<img src=" " width="140" height="150" ALIGN = "left" border="10" style="border-color: white"/>
+
+I am a New England native and first generation Jamaican-American, born and raised in Hartford, CT. I am currently a fourth year NOAA-LMRCSC funded PhD student in the Marine-Estuarine-Environmental Science program at the University of Maryland Eastern Shore. I am also a NOAA EPP/MSI Graduate Fellow, selected as a part of the inaugural class of 2021. My dissertation research, titled: "Evaluating Physiological and Immune Responses of Tanner Crab (Chionoecetes bairdi) to Hematodinium sp. Infection" seeks to understand the effect of Hematodinium (parasitic dinoflagellate) on gene expression, immune response, immune function as well as metabolic function in Tanner crab. I am passionate about improving my knowledge as a bioinformatics scientist and applying this unique skill set to my work in interdisciplinary scientific research aimed to answer complex scientific questions and problems. As a STEM professional and woman of color, I believe heavily in representation, education/outreach, and bridging the communication gap between scientists and the general public. Activities that interest me in my down time include: hiking, yoga, board games, spending time outdoors, museums, road-trips, traveling, and any opportunity to learn something new.
+I am a visitor of the Roberts lab twice over, once in the summer of 2019 and again during 2022. I have felt nothing but welcomed and included during my visits to the Roberts lab. This is a diverse and dynamic lab group that encourages professional and personal development of its members and visitors.
 
 ---
 # Postdoctoral Research Associates
