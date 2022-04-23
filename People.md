@@ -162,7 +162,7 @@ Dave Metzger
 
 ### _Undergraduates_
 
-Delaney Lawson
+Delaney Lawson (2022) [proposal](https://docs.google.com/document/d/1eC47B3HlVMkbWwHj7mGXQNNOS2X0rbl6YhE2z1lLmR0/edit?usp=sharing) [paper](https://docs.google.com/document/d/1yW3u7tCCBXVSf8YxZFtwRDIPVgnKMnvMCjVoaKXl7qw/edit?usp=sharing) [presentation](https://drive.google.com/file/d/1xELKSJINDtCFiOOR4NQTJV7J6yU7a1dm/view?usp=sharing)
 
 Hana Ra (2020)
 
