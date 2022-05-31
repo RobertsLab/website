@@ -101,6 +101,14 @@ When not doing research, I am an avid hiker, and I enjoy a number of hobbies inc
 ### Sam White
 [Lab notebook](https://robertslab.github.io/sams-notebook/) | [Email Sam](mailto:samwhite@uw.edu)
 
+<img src="https://avatars.githubusercontent.com/u/4514104?s=400&u=4ca84a191a9207abf4a374cce575663b22f8e69a&v=4" height="142" ALIGN = "left" border="10" style="border-color: white">
+
+I am a research scientist in the lab since the lab's inception in 2007 and am jack-of-all-trades lab member. I dabble in all aspects of helping the lab run efficiently (bionformatics, computer/server maintenance, training new personnel, purchasing/reconciliation, safety documentation/training, etc), but as a molecular biologist by training (B.S. Univ. of Illinois @ Urbana-Champaign - Plant Biology; M.S. Arizona State Univerity - Plant Biology), I excel at bench work.
+
+Outside of lab-related work, I dig playing video games and listening to Phish (and, to placate the haters, I also like other good bands/musicians like Queens of the Stone Age, Uriah Heep, and Kacey Musgraves). I guess I also enjoy spending time with my spouse, kid, and dog, too. 
+
+<br>
+
 Brent Vadopalas
 
 Giles Goetz
