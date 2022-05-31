@@ -98,7 +98,8 @@ When not doing research, I am an avid hiker, and I enjoy a number of hobbies inc
 
 # Research Scientists
 
-Sam White
+### Sam White
+[Lab notebook](https://robertslab.github.io/sams-notebook/) | [Email Sam](mailto:samwhite@uw.edu)
 
 Brent Vadopalas
 
