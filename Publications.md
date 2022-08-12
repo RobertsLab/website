@@ -5,6 +5,8 @@
 
 see also <a href="#preprint">*preprints*</a> and [_Google Scholar_](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=aAoYWVUAAAAJ&view_op=list_works)
 
+Hollie M. Putnam, Shelly A. Trigg, Samuel J. White, Laura H. Spencer, Brent Vadopalas, Aparna Natarajan, Jonathan Hetzel, Erich Jaeger, Jonathan Soohoo, Cristian Gallardo-Escárate, Frederick W. Goetz, Steven B. Roberts (**2022**) Dynamic DNA methylation contributes to carryover effects and beneficial acclimatization in geoduck clams. bioRxiv https://doi.org/10.1101/2022.06.24.497506 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1101/2022.06.24.497506" data-hide-no-mentions="true" class="altmetric-embed"></span>
+
 Samuel J. Gurr, Shelly A. Trigg, Brent Vadopalas, Steven B. Roberts, Hollie M. Putnam (**2022**) [Acclimatory gene expression of primed clams enhances robustness to elevated pCO2](https://doi.org/10.1111/mec.16644) Molecular Ecology. doi:10.1111/mec.16644 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1111/mec.16644" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
 Grace Crandall, Pamela C. Jensen, Samuel J. White, Steven Roberts (**2022**) [Characterization of the Gene Repertoire and Environmentally Driven Expression Patterns in Tanner Crab (_Chionoecetes bairdi_)](https://doi.org/10.1007/s10126-022-10100-8) Marine Biotechnology. doi:110.1007/s10126-022-10100-8 <span data-badge-popover="right" data-badge-type="2" data-doi="110.1007/s10126-022-10100-8" data-hide-no-mentions="true" class="altmetric-embed"></span>
