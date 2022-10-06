@@ -18,6 +18,7 @@ Aidan Coyle | [afcoyle.github.io](https://afcoyle.github.io) |   ![GitHub last c
 Olivia Cattau | [ocattau.github.io](https://ocattau.github.io)  | ![GitHub last commit](https://img.shields.io/github/last-commit/ocattau/ocattau.github.io)
 Delaney Lawson| [drlawson.github.io](https://drlawson.github.io)  | ![GitHub last commit](https://img.shields.io/github/last-commit/drlawson/drlawson.github.io)
 Ariana Huffmyer | [ahuffmyer.github.io](https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/) | ![GitHub last commit](https://img.shields.io/github/last-commit/AHuffmyer/ASH_Putnam_Lab_Notebook)
+Larken Root | [larkenr.github.io](https://github.com/larkenr/larkenr.github.io) | ![GitHub last commit](https://img.shields.io/github/last-commit/larkenr/larkenr.github.io)
 Laura Spencer | [laurahspencer.github.io](https://laurahspencer.github.io/LabNotebook/)  | [![GitHub followers](https://img.shields.io/github/followers/laurahspencer.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/laurahspencer)
 Yaamini Venkataraman | [yaaminiv.github.io](https://yaaminiv.github.io/) | [![GitHub followers](https://img.shields.io/github/followers/yaaminiv.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/yaaminiv)
 Grace Crandall | [grace-ac.github.io](https://grace-ac.github.io/) |  [![GitHub followers](https://img.shields.io/github/followers/grace-ac.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/grace-ac)
