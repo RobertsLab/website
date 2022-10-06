@@ -30,6 +30,7 @@ Shelly Trigg | [shellytrigg.github.io/notebook](https://shellytrigg.github.io/no
 
 <a id="pres">
 ## Recent Presentations</a>
+
 #### 2022
 * [Comparative Response of Littleneck and Manila Clams from the Puget Sound to Ocean Acidification Conditions: Year 1](https://github.com/larkenr/Clam-OA-project/blob/main/PCSGA%20sept%2022.pdf) Presentation. Pacific Coast Shellfish Growers Association (PCSGA) annual meeting, Wenatchee, September 20, 2022.
 
