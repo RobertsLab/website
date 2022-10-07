@@ -32,7 +32,11 @@ Shelly Trigg | [shellytrigg.github.io/notebook](https://shellytrigg.github.io/no
 ## Recent Presentations</a>
 
 #### 2022
+* [Mechanisms of tilapia salinity tolerance at the limits of osmoregulation](https://github.com/larkenr/larkenr.github.io/blob/master/NOAA%20physiology%20meeting.pdf) Presentation. NOAA physiology program monthly meeting, Virtual, March 3, 2022.
+
 * [Comparative Response of Littleneck and Manila Clams from the Puget Sound to Ocean Acidification Conditions: Year 1](https://github.com/larkenr/Clam-OA-project/blob/main/PCSGA%20sept%2022.pdf) Presentation. Pacific Coast Shellfish Growers Association (PCSGA) annual meeting, Wenatchee, September 20, 2022.
+
+* [Using aquaculture to turn the tide on aquatic ecosystem collapse](https://github.com/larkenr/larkenr.github.io/blob/master/UPS%20science%20seminar.pdf) Presentation. University of Puget Sound Weekly Science Seminar, Thompson Hall, September 29, 2022.
 
 #### 2021
 * [Diversity in animal response to environmental change](https://github.com/shellytrigg/talk-Coast2Coast2021) Presentation. Academic Data Science Alliance (ADSA) 2021 Data Science Coast to Coast Seminar Series, Virtual May 19, 2021 3pm.
