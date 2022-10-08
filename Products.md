@@ -38,13 +38,17 @@ Shelly Trigg | [shellytrigg.github.io/notebook](https://shellytrigg.github.io/no
 
 * [Using aquaculture to turn the tide on aquatic ecosystem collapse](https://github.com/larkenr/larkenr.github.io/blob/master/UPS%20science%20seminar.pdf) Presentation. University of Puget Sound Weekly Science Seminar, Thompson Hall, September 29, 2022.
 
+* [Physiological and multi-omic signatures of shifts in symbiotic nutritional exchange in reef-building coral early life history](https://github.com/AHuffmyer/presentations/blob/master/2022/Benthics_Huffmyer_2022.pdf) Presentation. Benthic Ecology Meeting. Portsmouth, New Hampshire. March 2022. 
+
 #### 2021
 * [Diversity in animal response to environmental change](https://github.com/shellytrigg/talk-Coast2Coast2021) Presentation. Academic Data Science Alliance (ADSA) 2021 Data Science Coast to Coast Seminar Series, Virtual May 19, 2021 3pm.
 
 
 * [Exploring the tolerance of Pacific geoduck to low pH through comparative physiology, genomics, and DNA methylation](https://github.com/shellytrigg/talk-SICB2020) Presentation. The Society for Integrative and Comparative Biology (SICB) 2021 Annual Meeting, Virtual January - February 2021
 
-* [A perspective on DNA methylation in bivalves](https://github.com/sr320/talk-sicb-2021) Presentation. The Society for Integrative and Comparative Biology (SICB) 2021 Annual Meeting, Virtual January - February 2021
+* [A perspective on DNA methylation in bivalves](https://github.com/sr320/talk-sicb-2021) Presentation. The Society for Integrative and Comparative Biology (SICB) 2021 Annual Meeting, Virtual January - February 2021  
+
+* [How do dynamic conditions shape coral symbiosis and metabolism and drive energetic-epigenetic linkages?](https://github.com/AHuffmyer/presentations/blob/master/2021/MCR_AIM_Huffmyer_2021.pdf) Presentation. 2021 Moorea Coral Reef Long Term Ecological Research All Invesitgator Meeting. November 2021. 
 
 #### 2020
 
