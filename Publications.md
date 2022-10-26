@@ -5,6 +5,8 @@
 
 see also <a href="#preprint">*preprints*</a> and [_Google Scholar_](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=aAoYWVUAAAAJ&view_op=list_works)
 
+Crandall G, Elliott Thompson R, Eudeline B, Vadopalas B, Timmins-Schiffman E, Roberts S. (**2022**) [Proteomic response of early juvenile Pacific oysters (_Crassostrea gigas_) to temperature](https://doi.org/10.7717/peerj.14158) PeerJ 10:e14158 doi:10.7717/peerj.14158 <span data-badge-popover="right" data-badge-type="2" data-doi="10.7717/peerj.14158" data-hide-no-mentions="true" class="altmetric-embed"></span>
+
 Hollie M. Putnam, Shelly A. Trigg, Samuel J. White, Laura H. Spencer, Brent Vadopalas, Aparna Natarajan, Jonathan Hetzel, Erich Jaeger, Jonathan Soohoo, Cristian Gallardo-Escárate, Frederick W. Goetz, Steven B. Roberts (**2022**) Dynamic DNA methylation contributes to carryover effects and beneficial acclimatization in geoduck clams. bioRxiv https://doi.org/10.1101/2022.06.24.497506 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1101/2022.06.24.497506" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
 Yaamini Venkataraman, Samuel J White and Steven Roberts (**2022**) [Differential DNA methylation in Pacific oyster reproductive tissue in response to ocean acidification](https://doi.org/10.1186/s12864-022-08781-5). BMC Genomics 23, 556 doi:10.1186/s12864-022-08781-5 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1186/s12864-022-08781-5" data-hide-no-mentions="true" class="altmetric-embed"></span>
