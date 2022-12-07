@@ -40,6 +40,10 @@ Shelly Trigg | [shellytrigg.github.io/notebook](https://shellytrigg.github.io/no
 
 * [Physiological and multi-omic signatures of shifts in symbiotic nutritional exchange in reef-building coral early life history](https://github.com/AHuffmyer/presentations/blob/master/2022/Benthics_Huffmyer_2022.pdf) Presentation. Benthic Ecology Meeting. Portsmouth, New Hampshire. March 2022.
 
+* [Understanding shifts in symbiotic and physiological state in reef- building corals across developmental and environmental gradients](https://github.com/AHuffmyer/presentations/blob/master/2022/OldDominion_Seminar_Huffmyer_2022.pdf) Virtual seminar. Old Dominion University. December 2022.
+
+* [Multi-omic approaches to understand reef coral development and symbiosis](https://github.com/AHuffmyer/presentations/blob/master/2022/UW_eScience_Seminar_Huffmyer_2022.pdf) Virtual seminar. University of Washington eScience Institute Postdoctoral Seminar Series. November 2022.
+
 * [The contribution of summer heatwaves to ‘triploid mortality’ events observed during commercial pacific oyster production in Washington State](https://github.com/mattgeorgephd/NOPP-gigas-ploidy-temp/blob/2ce2524f71c3b7a3344ce185f5c81e4f1cee6349/presentations/Aqua_2022.pdf) Presentation. The Society of Integrative and Comparative Biology, Virtual, January 4, 2022.
 
 #### 2021
