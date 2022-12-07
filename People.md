@@ -22,7 +22,7 @@ Growing up in coastal Alaska, I spent most of my youth being poked by sea urchin
 
 ---
 ### Olivia Cattau
-[Lab notebook](https://ocattau.github.io/) | [CV](https://github.com/ocattau/ocattau.github.io/blob/master/cv/Cattau_CV_July_2021.pdf) | ocattau@uw.edu | oliviacattau@gmail.com
+[Lab notebook](https://ocattau.github.io/) | [CV](https://github.com/ocattau/ocattau.github.io/blob/master/cv/Cattau_CV_July_2021.pdf) | ocattau@uw.edu | oliviacattau@gmail.com | [ORCID iD](https://orcid.org/0000-0001-6028-3928)
 
 <img src="https://pacifichybreed.com/wp-content/uploads/2019/11/olivia-1-300x300.jpg " width="100" height="100" border = "5" ALIGN = "left" border="10" style="border-color: white"/>
 
