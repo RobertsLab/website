@@ -126,7 +126,7 @@ Delaney Lawson
 
 ### _Postdoctoral Research Associates_
 
-[Shelly Trigg](https://shellytrigg.github.io)
+[Shelly Wanamaker](https://shellywanamaker.github.io)
 
 Hollie Putnam
 
