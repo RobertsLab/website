@@ -31,6 +31,14 @@ Shelly Trigg | [shellytrigg.github.io/notebook](https://shellytrigg.github.io/no
 <a id="pres">
 ## Recent Presentations</a>
 
+
+#### 2023
+* [Triploid Pacific oysters experience enhanced mortality following marine heatwaves]() Presentation. National Shellfish Association Annual Meeting, Baltimore, MD, March 30, 2023.
+
+* [Ploidy mediates the stress response of Pacific oysters following marine heatwave exposure]() Presentation. Plant and Animal Genome Conference, San Diego, CA, January 14, 2023.
+
+* [Triploid Pacific oysters exhibit stress response dysregulation and elevated mortality following marine heatwaves]() Presentation. NOAA Fisheries Northwest Fisheries Science Center Physiology Group Meeting, Seattle, WA, January 11, 2023.
+
 #### 2022
 * [Mechanisms of tilapia salinity tolerance at the limits of osmoregulation](https://github.com/larkenr/larkenr.github.io/blob/master/NOAA%20physiology%20meeting.pdf) Presentation. NOAA physiology program monthly meeting, Virtual, March 3, 2022.
 
