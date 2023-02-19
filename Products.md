@@ -81,45 +81,6 @@ Celeste Valdivia | [valeste.github.io](https://valeste.github.io/) | ![GitHub la
 
 * [Influence of ocean acidification on DNA methylation patterns in geoduck](https://github.com/shellytrigg/talk-pag2020) Presentation, The Plant and Animal Genome XXVII Conference (PAG), San Diego, CA, January 2020
 
-#### 2019
-
-* [Oysters, Ocean Acidification, and -Omics](https://doi.org/10.6084/m9.figshare.13198181) Presentation, Huxley Environmental Speaker Series at Western Washington University, December 2019
-
-* [Effects of Bitter Crab Disease on the gene expression of Alaska Tanner Crabs](https://figshare.com/articles/Effects_of_Bitter_Crab_Disease_on_the_gene_expression_of_Alaska_Tanner_Crabs/11120480) Presentation, SAFS Graduate Student Symposium, November 2019
-
-* [Environmental influence on the Atlantic salmon epigenome during sea lice infestation](https://doi.org/10.6084/m9.figshare.10882775) Presentation, International Conference on Integrative Salmonid Biology, November 2019  
-
-* [Influence of Ocean Acidification on Pacific Oyster (*Crassostrea gigas*) DNA Methylation](https://doi.org/10.6084/m9.figshare.9897719.v2) WSN (Ensenada, MX). November 1, 2019
-
-* [Carryover effects of temperature and pCO2 across multiple Olympia oyster populations](https://doi.org/10.6084/m9.figshare.10308056.v1) Poster, Washington Sea Grant Scholars Poster Session, October 2019  
-
-* [Applying cutting-edge technology for reproductive control in bivalves](https://doi.org/10.6084/m9.figshare.9973361.v1) PCSGA (Portland, OR). September 18, 2019
-
-* [Effects of Bitter Crab Disease on the gene expression of Alaskan Tanner Crabs](https://figshare.com/articles/Effects_of_Bitter_Crab_Disease_on_the_gene_expression_of_Alaskan_Tanner_Crabs/9898916) PCSGA (Portland, OR). September 18, 2019
-
-* [Influence of Ocean Acidification on Pacific Oyster (*Crassostrea gigas*) DNA Methylation](https://doi.org/10.6084/m9.figshare.9897719.v1) PCSGA (Portland, OR). September 17, 2019
-
-* [A protein inventory reveals mechanisms of temperature impact on oyster development](https://github.com/shellytrigg/OysterSeedProject/tree/master/Presentations) Pacific Coast Shellfish Growers Association 2019 Conference (Portland, Oregon) September 17-19, 2019
-
-* [Parental winter exposures influence Olympia oyster larvae](https://figshare.com/articles/Parental_winter_exposures_influence_Olympia_oyster_larvae/9894434) - PCSGA/NSA-PCS 2019 (Portland, OR), September 17th, 2019.
-
-* [Epigenetic Mechanisms in Marine Invertebrates: Perspectives and Applications](https://github.com/sr320/talk-grc-2019) Gordon Research Conference: Marine Molecular Ecology, Novel Insights into Marine Patterns and Processes (Hong Kong, China) July 15, 2019
-
-* [Epigenetic Variation in Shellfish and Implications for Aquaculture](https://github.com/sr320/talk-mj-2019) Aquaculture Canada (Victoria, British Columbia) May 07, 2019
-
-* [Intergenerational Carryover Effects in Shellfish and the Consideration of a Role for DNA Methylation](https://github.com/sr320/talk-mj-2019) NOAA Monster Jam (Seattle, WA) May 02, 2019
-
-* [Multidimensional Training for Multidimensional Graduate Students: Better Preparing Tomorrow's Leaders](https://www.youtube.com/watch?v=8TbcVPMdo1w&list=PLgDT5hypdTyTHB5lI338UDbinahTxU8ew&index=55&t=0s) SAFS Centennial Celebration and 2019 Bevan Symposium (Seattle, WA). April 16, 2019
-
-* [Considering epigenetics in aquatic species culture and conservation](https://github.com/sr320/talk-safs100-2019) SAFS Centennial Celebration and 2019 Bevan Symposium (Seattle, WA). April 16, 2019
-
-* [Temperature-influenced protein network differences in the Pacific oyster during larval development](https://shellytrigg.github.io/55th-post/) Cold Spring Harbor Laboratories Network Biology Meeting (Cold Spring Harbor, NY). March 19-23, 2019.
-
-* [Parental low pH exposure affects reproduction & larval gene expression in the Olympia oyster](https://doi.org/10.6084/m9.figshare.7841348) - Aquaculture 2019, (New Orleans, LA) March 7-11, 2019. [Student Spotlight competition](https://doi.org/10.6084/m9.figshare.7841336.v1)
-
-* [Comparative Analyses of DNA Methylation Patterns in Bivalves](https://github.com/sr320/talk-ASLO-2019) - ASLO 2019 (San Juan, Puerto Rico) March 01, 2019.
-
-
 
 ---
 
