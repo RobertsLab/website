@@ -84,6 +84,16 @@ Goetz FW, Jasonowicz AJ, Roberts SB. (**2017**) [What goes up must come down: Di
 
 Gavery MR, Roberts SB. (**2017**) [Epigenetic considerations in aquaculture](https://doi.org/10.7717/peerj.4147) PeerJ 5:e4147 doi: 10.7717/peerj.4147 <span data-badge-popover="right" data-badge-type="2" data-doi="10.7717/peerj.4147" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
+<div class="scite-badge"
+     data-doi="meta:10.7717/peerj.4147"
+     data-layout="vertical"
+     data-show-zero="false"
+     data-small="false"
+     data-show-labels="true"
+     data-tally-show="true">
+</div>
+<script async type="application/javascript" src="https://cdn.scite.ai/badge/scite-badge-latest.min.js">
+</script>
 
 <a href="https://doi.org/10.7717/peerj.4147"><img class="wp-image-2505 alignright" title="aq-epigenetic" src="https://d.pr/i/prer0r+" alt="heat-map" width="265" height="143" /></a>
 
