@@ -127,6 +127,9 @@ Delaney Lawson
 
 # Undergraduate Students
 
+[Henry Berg](https://henryberg03.github.io/notebook/)
+Dorothy Lartey
+
 ---
 
 # Alumni
