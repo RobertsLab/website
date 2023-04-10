@@ -128,7 +128,7 @@ Delaney Lawson
 # Undergraduate Students
 
 [Henry Berg](https://henryberg03.github.io/notebook/) <br>
-[Eric Essington](Eric-Ess.github.io) <br>
+[Eric Essington](https://Eric-Ess.github.io/notebook/) <br>
 Dorothy Lartey
 
 ---
