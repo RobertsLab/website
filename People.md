@@ -58,7 +58,7 @@ I am a visitor of the Roberts lab twice over, once in the summer of 2019 and aga
 
 ---
 ### Celeste Valdivia
-[Lab notebook](https://valeste.github.io/) | cvaldi@uw.edu
+[Lab notebook](https://valeste.github.io/tough-tunicates/) | cvaldi@uw.edu
 
 <img src="https://avatars.githubusercontent.com/u/114775924?s=400&u=ac323874acba109b05b1e5def35f43bd00a65fde&v=4" width="140" height="150" ALIGN = "left" border="10" style="border-color: white"/>
 
